@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 1",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332370340824127,
+          48.172129967575984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.332315355539322,
+              48.17206736122464
+            ],
+            [
+              16.33224830031395,
+              48.17213622820694
+            ],
+            [
+              16.33245751261711,
+              48.17221403884188
+            ],
+            [
+              16.332513839006424,
+              48.17215143259316
+            ],
+            [
+              16.332315355539322,
+              48.17206736122464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.33194789290428,
+              48.1724644630724
+            ],
+            [
+              16.331786960363388,
+              48.17262992126804
+            ],
+            [
+              16.331951916217804,
+              48.172685372003365
+            ],
+            [
+              16.33213296532631,
+              48.17251097029485
+            ],
+            [
+              16.33194789290428,
+              48.1724644630724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 1",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.331934481859207,
+          48.172569998631815
+        ]
+      }
+    }
+  ]
+}
