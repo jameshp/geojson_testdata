@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": "99",
+        "name": "OEBB Parndorf Trigger",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.851375102996826,
+          47.9922606280579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Entrance",
+        "id": "1",
+        "name": "OEBB Parndorf"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.851452887058258,
+            47.99232165861253
+          ],
+          [
+            16.85136169195175,
+            47.99222113766056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": "2",
+        "name": "OEBB Parndorf"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.851216852664948,
+              47.9922606280579
+            ],
+            [
+              16.851345598697662,
+              47.99239525418535
+            ],
+            [
+              16.851595044136047,
+              47.99228575829502
+            ],
+            [
+              16.851452887058258,
+              47.992165492049395
+            ],
+            [
+              16.851216852664948,
+              47.9922606280579
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": "98",
+        "name": "OEBB Parndorf Trigger",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.78531765937805,
+          48.018651401997175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "Entrance",
+        "id": "10",
+        "name": "OEBB Parndorf Line 2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.785304248332977,
+            48.01873213639724
+          ],
+          [
+            16.785253286361694,
+            48.01857784387819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": "11",
+        "name": "OEBB Parndorf Poly2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.7850923538208,
+              48.018568873368686
+            ],
+            [
+              16.78515136241913,
+              48.018771606502355
+            ],
+            [
+              16.785526871681213,
+              48.01873034230082
+            ],
+            [
+              16.785427629947662,
+              48.01854196183083
+            ],
+            [
+              16.7850923538208,
+              48.018568873368686
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
