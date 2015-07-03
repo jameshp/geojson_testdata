@@ -1,0 +1,263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 1",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332370340824127,
+          48.172129967575984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.332315355539322,
+              48.17206736122464
+            ],
+            [
+              16.33224830031395,
+              48.17213622820694
+            ],
+            [
+              16.33245751261711,
+              48.17221403884188
+            ],
+            [
+              16.332513839006424,
+              48.17215143259316
+            ],
+            [
+              16.332315355539322,
+              48.17206736122464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.33194789290428,
+              48.1724644630724
+            ],
+            [
+              16.331786960363388,
+              48.17262992126804
+            ],
+            [
+              16.331951916217804,
+              48.172685372003365
+            ],
+            [
+              16.33213296532631,
+              48.17251097029485
+            ],
+            [
+              16.33194789290428,
+              48.1724644630724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1000,
+        "name": "Wurmbstrasse 1",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.331934481859207,
+          48.172569998631815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1004,
+        "name": "Embelgasse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.352975070476532,
+              48.1819796776133
+            ],
+            [
+              16.353114545345306,
+              48.182027964611684
+            ],
+            [
+              16.35318696498871,
+              48.181938544208435
+            ],
+            [
+              16.353036761283875,
+              48.181890257125836
+            ],
+            [
+              16.352975070476532,
+              48.1819796776133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1004,
+        "name": "Embelgasse",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.353085041046143,
+          48.18195642830156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1005,
+        "name": "Siebenbrunnenfeldgasse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.352950930595398,
+              48.18169889675854
+            ],
+            [
+              16.353026032447815,
+              48.18159874525349
+            ],
+            [
+              16.352894604206085,
+              48.181552246273945
+            ],
+            [
+              16.352819502353668,
+              48.18164882103048
+            ],
+            [
+              16.352950930595398,
+              48.18169889675854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1005,
+        "name": "Siebenbrunnenfeldgasse",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35291337966919,
+          48.181625571568674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1006,
+        "name": "Siebenbrunnenfeldgasse 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.350882947444916,
+              48.181344788774304
+            ],
+            [
+              16.350877583026886,
+              48.18145030605576
+            ],
+            [
+              16.35099023580551,
+              48.181453882908954
+            ],
+            [
+              16.350992918014526,
+              48.181348365634854
+            ],
+            [
+              16.350882947444916,
+              48.181344788774304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 1006,
+        "name": "Siebenbrunnenfeldgasse 2",
+        "radius": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3509339094162,
+          48.181400230084854
+        ]
+      }
+    }
+  ]
+}
