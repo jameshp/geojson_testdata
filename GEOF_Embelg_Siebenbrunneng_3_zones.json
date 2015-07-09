@@ -39,10 +39,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "event": "EntranceExit",
         "id": 1004,
         "name": "Embelgasse",
-        "radius": 100
+        "radius": 50
       },
       "geometry": {
         "type": "Point",
@@ -90,10 +93,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "event": "EntranceExit",
         "id": 1005,
         "name": "Siebenbrunnenfeldgasse",
-        "radius": 100
+        "radius": 50
       },
       "geometry": {
         "type": "Point",
@@ -141,10 +147,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "event": "EntranceExit",
         "id": 1006,
         "name": "Siebenbrunnenfeldgasse 2",
-        "radius": 100
+        "radius": 50
       },
       "geometry": {
         "type": "Point",
@@ -193,10 +202,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "event": "EntranceExit",
         "id": 1006,
         "name": "Siebenbrunnenfeldgasse 2",
-        "radius": 100
+        "radius": 50
       },
       "geometry": {
         "type": "Point",
@@ -244,10 +256,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "event": "EntranceExit",
         "id": 1007,
         "name": "Eichenstrasse 1",
-        "radius": 100
+        "radius": 50
       },
       "geometry": {
         "type": "Point",
