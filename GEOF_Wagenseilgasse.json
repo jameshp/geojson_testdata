@@ -1,0 +1,295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 1,
+        "name": "Wagenseilgasse",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.332335472106934,
+              48.17023027797267
+            ],
+            [
+              16.332397162914276,
+              48.17040558184394
+            ],
+            [
+              16.33264124393463,
+              48.1703662279658
+            ],
+            [
+              16.332587599754333,
+              48.17018376868177
+            ],
+            [
+              16.332335472106934,
+              48.17023027797267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 2,
+        "name": "Lehrbachgasse",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.331471800804135,
+              48.1698116928359
+            ],
+            [
+              16.331855356693268,
+              48.169759816662214
+            ],
+            [
+              16.331898272037506,
+              48.1699386997983
+            ],
+            [
+              16.331509351730347,
+              48.16998878696458
+            ],
+            [
+              16.331471800804135,
+              48.1698116928359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "radius": 30,
+        "event": "EntranceExit",
+        "id": 1,
+        "name": "Wagenseilgasse",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332496404647827,
+          48.17030183064557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "radius": 30,
+        "event": "EntranceExit",
+        "id": 2,
+        "name": "Lehrbachgasse",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.331672966480255,
+          48.16987072428009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 3,
+        "name": "Lehrbachgasse 2",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.33138597011566,
+              48.16937342695872
+            ],
+            [
+              16.331740021705627,
+              48.16933407228853
+            ],
+            [
+              16.33169174194336,
+              48.16914445390885
+            ],
+            [
+              16.331337690353394,
+              48.16919454185085
+            ],
+            [
+              16.33138597011566,
+              48.16937342695872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "radius": 30,
+        "event": "EntranceExit",
+        "id": 3,
+        "name": "Lehrbachgasse 2",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.331530809402466,
+          48.16924462974394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 4,
+        "name": "Kranichberggasse 1",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.333091855049133,
+              48.16939489312973
+            ],
+            [
+              16.33342444896698,
+              48.169344805383396
+            ],
+            [
+              16.333354711532593,
+              48.169126565346254
+            ],
+            [
+              16.333016753196716,
+              48.169176653305755
+            ],
+            [
+              16.333091855049133,
+              48.16939489312973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "radius": 30,
+        "event": "EntranceExit",
+        "id": 4,
+        "name": "Kranichberggasse 1",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333231329917908,
+          48.16925178515328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 5,
+        "name": "Technologiestraße 1",
+        "direction": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.334577798843384,
+              48.17099409760022
+            ],
+            [
+              16.33493721485138,
+              48.170954744173756
+            ],
+            [
+              16.334867477416992,
+              48.17071504537846
+            ],
+            [
+              16.334486603736877,
+              48.17075618778864
+            ],
+            [
+              16.334577798843384,
+              48.17099409760022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "event": "EntranceExit",
+        "id": 5,
+        "name": "Technologiestraße 1",
+        "direction": 0,
+        "radius": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.334698498249054,
+          48.17085278288284
+        ]
+      }
+    }
+  ]
+}
