@@ -51,7 +51,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "event": "EntranceExit",
-        "id": 2,
+        "id": 3,
         "name": "Lehrbachgasse",
         "direction": 0
       },
@@ -91,7 +91,7 @@
         "marker-symbol": "",
         "radius": 30,
         "event": "EntranceExit",
-        "id": 1,
+        "id": 2,
         "name": "Wagenseilgasse",
         "direction": 0
       },
@@ -111,7 +111,7 @@
         "marker-symbol": "",
         "radius": 30,
         "event": "EntranceExit",
-        "id": 2,
+        "id": 4,
         "name": "Lehrbachgasse",
         "direction": 0
       },
@@ -127,7 +127,7 @@
       "type": "Feature",
       "properties": {
         "event": "EntranceExit",
-        "id": 3,
+        "id": 5,
         "name": "Lehrbachgasse 2",
         "direction": 0
       },
@@ -167,7 +167,7 @@
         "marker-symbol": "",
         "radius": 30,
         "event": "EntranceExit",
-        "id": 3,
+        "id": 6,
         "name": "Lehrbachgasse 2",
         "direction": 0
       },
@@ -183,7 +183,7 @@
       "type": "Feature",
       "properties": {
         "event": "EntranceExit",
-        "id": 4,
+        "id": 7,
         "name": "Kranichberggasse 1",
         "direction": 0
       },
@@ -223,7 +223,7 @@
         "marker-symbol": "",
         "radius": 30,
         "event": "EntranceExit",
-        "id": 4,
+        "id": 8,
         "name": "Kranichberggasse 1",
         "direction": 0
       },
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "event": "EntranceExit",
-        "id": 5,
+        "id": 9,
         "name": "Technologiestraße 1",
         "direction": 0
       },
@@ -278,7 +278,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "event": "EntranceExit",
-        "id": 5,
+        "id": 10,
         "name": "Technologiestraße 1",
         "direction": 0,
         "radius": 30
