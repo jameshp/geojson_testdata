@@ -1,0 +1,1477 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 1,
+        "name": "0225-003-07-Wagenseilgasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33263467,
+          48.1701825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 115.4,
+        "event": "EntranceExit",
+        "id": 3,
+        "name": "0225-003-06-Am_Europlatz-Wagenseilgasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33350533,
+          48.17005971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 29.4,
+        "event": "EntranceExit",
+        "id": 4,
+        "name": "0225-004-01-Am_Europlatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33347768,
+          48.17121575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 5,
+        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33748576,
+          48.1710307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 6,
+        "name": "Zone 3 Cemetery Unter-Meidlinger-Straße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332558,
+          48.172507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 7,
+        "name": "0225-005-01-Wienerbergstraße_Südbahn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33057986,
+          48.17171601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 240.4,
+        "event": "EntranceExit",
+        "id": 8,
+        "name": "0225-006-01-Wienerberggasse-Breitenfurterstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32753309,
+          48.17226313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 52,
+        "event": "EntranceExit",
+        "id": 9,
+        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32630587,
+          48.17327654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 71.3,
+        "event": "EntranceExit",
+        "id": 10,
+        "name": "0000_006_Margaretengürtel-Eichenstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34939432,
+          48.18038082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 38.8,
+        "event": "EntranceExit",
+        "id": 11,
+        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37368441,
+          48.18612146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 45.6,
+        "event": "EntranceExit",
+        "id": 12,
+        "name": "0000_008_Favoritenstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36864185,
+          48.19619555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 13,
+        "name": "0000_001_Kärntner_Straße_entering_garage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.369917,
+          48.202956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 26.7,
+        "event": "EntranceExit",
+        "id": 14,
+        "name": "0000_001_Kärntner_Straße_passing_garage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36984885,
+          48.20284615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 34.4,
+        "event": "EntranceExit",
+        "id": 15,
+        "name": "0000_009_Dorotheergasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36961281,
+          48.20652864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 40.1,
+        "event": "EntranceExit",
+        "id": 16,
+        "name": "0000_010_Josefsplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36754751,
+          48.20637134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 47,
+        "event": "EntranceExit",
+        "id": 17,
+        "name": "0000_011_Sterngasse_MarcAurelStraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37284756,
+          48.21197681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 57.4,
+        "event": "EntranceExit",
+        "id": 18,
+        "name": "0000_012_Tuchlauben_Brandstätte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37050867,
+          48.21028951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 19,
+        "name": "0000_013_Rotenturmstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.375665,
+          48.210675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 40.2,
+        "event": "EntranceExit",
+        "id": 20,
+        "name": "0000_014_Bauernmarkt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37484312,
+          48.21120466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 38.1,
+        "event": "EntranceExit",
+        "id": 21,
+        "name": "A22_051-00-Station_004_051_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40515745,
+          48.23746238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 80,
+        "event": "EntranceExit",
+        "id": 22,
+        "name": "0000_001_UNO_City_West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40847802,
+          48.23456407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 119.6,
+        "event": "EntranceExit",
+        "id": 23,
+        "name": "0000_002_UNO_City_North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41525865,
+          48.23722242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 90.5,
+        "event": "EntranceExit",
+        "id": 24,
+        "name": "0000_003_UNO_City_East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41964674,
+          48.23530014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 54.2,
+        "event": "EntranceExit",
+        "id": 25,
+        "name": "A22_000_744_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43455982,
+          48.21521788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 26,
+        "name": "A22_006-01-KN_Donauufer_below"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44215047,
+          48.20987125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 27,
+        "name": "A23_005-01-Station_014_082_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44589961,
+          48.21324848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 55.4,
+        "event": "EntranceExit",
+        "id": 28,
+        "name": "A23_006-02-KN_Donauufer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44266009,
+          48.21292768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 29,
+        "name": "A22_006-01-KN_Donauufer_above"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.441782,
+          48.210315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 55.8,
+        "event": "EntranceExit",
+        "id": 30,
+        "name": "A23_006-00-KN_Donauufer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44044111,
+          48.20944949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 173.6,
+        "event": "EntranceExit",
+        "id": 31,
+        "name": "A23_007-00-Station_012_900_0_MAS_150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43853329,
+          48.20815329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 200.6,
+        "event": "EntranceExit",
+        "id": 32,
+        "name": "A23_007-01-Station_012_900_0_MAS_150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43429245,
+          48.20525549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 187.9,
+        "event": "EntranceExit",
+        "id": 33,
+        "name": "A23_007-02-Station_012_900_0_MAS_150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43009478,
+          48.20235156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 208.6,
+        "event": "EntranceExit",
+        "id": 34,
+        "name": "A23_007-03-Station_012_900_0_MAS_150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42586634,
+          48.19949915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 87.6,
+        "event": "EntranceExit",
+        "id": 35,
+        "name": "A23_008-00-Station_011_225_2_SKE_50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42285755,
+          48.19743717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 94,
+        "event": "EntranceExit",
+        "id": 36,
+        "name": "A23_009-00-Station_011_175_1_SKE_50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42239274,
+          48.19712039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 98.7,
+        "event": "EntranceExit",
+        "id": 37,
+        "name": "A23_009-01-Station_011_175_1_SKE_50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41999621,
+          48.19546793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 38,
+        "name": "A23-005-00_KNA23_Prater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4164302,
+          48.19299284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 39,
+        "name": "A23_010-00-KN_Prater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4164302,
+          48.19299284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 40,
+        "name": "A23_011-00-Station_010_056_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41211496,
+          48.19008203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 41,
+        "name": "A23_012-00-AS_St_Marx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40798321,
+          48.18727031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 42,
+        "name": "A23_012-01-AS_St_Marx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4055821,
+          48.1854346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 106.7,
+        "event": "EntranceExit",
+        "id": 43,
+        "name": "A23_013-00-Station_009_076_2_MAS_50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40459313,
+          48.18399902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 127.4,
+        "event": "EntranceExit",
+        "id": 44,
+        "name": "A23_014-00-Station_009_068_1_MAS_50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40421498,
+          48.18319727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 45,
+        "name": "A23_015-00-AS_Landstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40184615,
+          48.18022687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 46,
+        "name": "A23_015-02-AS_Landstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3983028,
+          48.17161283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 148,
+        "event": "EntranceExit",
+        "id": 47,
+        "name": "A23_016-00-Station_007_065_2_SKE_100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39242869,
+          48.16984808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 113,
+        "event": "EntranceExit",
+        "id": 48,
+        "name": "A23_017-00-Station_006_979_1_SKE_100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39089371,
+          48.16879631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 197.4,
+        "event": "EntranceExit",
+        "id": 49,
+        "name": "A23_017-01-Station_006_979_1_SKE_100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38616463,
+          48.16474815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 50,
+        "name": "A23_018-00-Verteilerkreis_Favoriten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38335479,
+          48.16097413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 51,
+        "name": "A23_018-01-Verteilerkreis_Favoriten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37784268,
+          48.15914323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 52,
+        "name": "A23_018-02-Verteilerkreis_Favoriten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37496177,
+          48.15568644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 53,
+        "name": "A23_018-03-Verteilerkreis_Favoriten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37423187,
+          48.15173242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 54,
+        "name": "A23_018-04-Verteilerkreis_Favoriten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36874342,
+          48.15069792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 55,
+        "name": "A23_019-00-Station_003_685_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3632811,
+          48.15170284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 56,
+        "name": "A23_019-01-Station_003_685_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35737252,
+          48.15249472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 57,
+        "name": "A23_019-02-Station_003_685_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35143458,
+          48.1525567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 58,
+        "name": "A23_019-03-Station_003_685_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34729687,
+          48.15178598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 59,
+        "name": "A02_001-00-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34407955,
+          48.15012162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 60,
+        "name": "A23_020-00-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34376878,
+          48.14992528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 61,
+        "name": "A02_001-01-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33472868,
+          48.1428849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 62,
+        "name": "A23_020-01-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3388317,
+          48.15266313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 63,
+        "name": "A02_001-02-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33408882,
+          48.14135591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 64,
+        "name": "A02_001-03-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33210925,
+          48.13734532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 65,
+        "name": "A02_002-00-Station_002_930_1_2_SKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33068996,
+          48.13398691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 67,
+        "name": "A02_002-01-Station_002_930_1_2_SKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3288889,
+          48.12983715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 69,
+        "name": "A02_002-02-Station_002_930_1_2_SKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32725083,
+          48.12597653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 70,
+        "name": "A02_003-00-KN_Vösendorf_01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32537268,
+          48.12194384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 90.2,
+        "event": "EntranceExit",
+        "id": 71,
+        "name": "A21_037_125_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31028771,
+          48.1215209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.1,
+        "event": "EntranceExit",
+        "id": 72,
+        "name": "A21_037_150_2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.309819,
+          48.12134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 73,
+        "name": "A02_004-00-KN_Vösendorf_02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32373113,
+          48.11808129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 74,
+        "name": "A02_003-00-KN_Vösendorf_01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32537268,
+          48.12194384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 75,
+        "name": "A02_002-02-Station_002_930_1_2_SKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32725083,
+          48.12597653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 76,
+        "name": "A02_002-01-Station_002_930_1_2_SKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3288889,
+          48.12983715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 77,
+        "name": "A02_002-00-Station_002_930_1_2_SKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33068996,
+          48.13398691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 78,
+        "name": "A02_001-03-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33210925,
+          48.13734532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 79,
+        "name": "A02_001-02-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33408882,
+          48.14135591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 80,
+        "name": "A02_001-01-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33472868,
+          48.1428849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 81,
+        "name": "A23_020-02-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33412407,
+          48.15437859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 82,
+        "name": "A23_020-03-KN_Inzersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3287993,
+          48.15628184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 83,
+        "name": "A23_021-00-Station_000_377_0_MAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32374028,
+          48.15737475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 84,
+        "name": "A23_022-00-Altmannsdorf_01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31818731,
+          48.15919565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 26.7,
+        "event": "EntranceExit",
+        "id": 85,
+        "name": "0000_099_Zanaschkagasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32538319,
+          48.1574941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 26.7,
+        "event": "EntranceExit",
+        "id": 86,
+        "name": "0000_099_Zanaschkagasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32538319,
+          48.1574941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 60,
+        "event": "EntranceExit",
+        "id": 87,
+        "name": "A23_023-00-Altmannsdorf_02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31729197,
+          48.16323486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 88,
+        "name": "0012_013-00-Breitenfurterstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32035234,
+          48.16879583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 89,
+        "name": "0012_014-00-Breitenfurterstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3236627,
+          48.17121486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 90,
+        "name": "0224-001-00-Altmannsdorf_Breitenfurter_Strasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31665711,
+          48.1656138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 29.4,
+        "event": "EntranceExit",
+        "id": 91,
+        "name": "0225-004-01-Am_Europlatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33347768,
+          48.17121575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 250,
+        "event": "EntranceExit",
+        "id": 94,
+        "name": "0225-005-01-Wienerbergstraße_Südbahn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33057986,
+          48.17171601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 240.4,
+        "event": "EntranceExit",
+        "id": 95,
+        "name": "0225-006-01-Wienerberggasse-Breitenfurterstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32753309,
+          48.17226313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 96,
+        "name": "Europlaza North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333189,
+          48.171224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 48.2,
+        "event": "EntranceExit",
+        "id": 97,
+        "name": "Europlaza Entry Parkgarage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332783,
+          48.170266
+        ]
+      }
+    }
+  ]
+}
