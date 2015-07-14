@@ -3588,6 +3588,838 @@
           48.480538657620826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 139,
+        "name": "Zone 139",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.983980894088745,
+              48.46718791999138
+            ],
+            [
+              15.984313488006592,
+              48.467436900365264
+            ],
+            [
+              15.984517335891724,
+              48.46728751228751
+            ],
+            [
+              15.984184741973877,
+              48.467059872466336
+            ],
+            [
+              15.983980894088745,
+              48.46718791999138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 140,
+        "name": "Zone 139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.984249114990234,
+          48.467248386415804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 141,
+        "name": "Zone 141",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.995407104492188,
+              48.46272029312013
+            ],
+            [
+              15.995664596557617,
+              48.46311869620037
+            ],
+            [
+              15.99605083465576,
+              48.46301909572347
+            ],
+            [
+              15.995707511901854,
+              48.46263492062468
+            ],
+            [
+              15.995407104492188,
+              48.46272029312013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 142,
+        "name": "Zone 141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.995728969573975,
+          48.462876808412524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 143,
+        "name": "Zone 143",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.015620231628414,
+              48.4575123081186
+            ],
+            [
+              16.015899181365967,
+              48.457953442314
+            ],
+            [
+              16.01652145385742,
+              48.45779691126408
+            ],
+            [
+              16.0160493850708,
+              48.457298854712434
+            ],
+            [
+              16.015620231628414,
+              48.4575123081186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 144,
+        "name": "Zone 143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.016070842742916,
+          48.457626148513214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 145,
+        "name": "Zone 145",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.02856993675232,
+              48.45209031348894
+            ],
+            [
+              16.02881669998169,
+              48.45227532547171
+            ],
+            [
+              16.028988361358643,
+              48.45215435617465
+            ],
+            [
+              16.028687953948975,
+              48.451976459625996
+            ],
+            [
+              16.02856993675232,
+              48.45209031348894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 146,
+        "name": "Zone 145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.02877914905548,
+          48.45212589254885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 147,
+        "name": "Zone 147",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.033151149749756,
+              48.44829741928158
+            ],
+            [
+              16.033430099487305,
+              48.448475328719425
+            ],
+            [
+              16.033601760864258,
+              48.448333001219005
+            ],
+            [
+              16.03327989578247,
+              48.44815509128255
+            ],
+            [
+              16.033151149749756,
+              48.44829741928158
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 148,
+        "name": "Zone 147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.033376455307007,
+          48.448315210000985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 149,
+        "name": "Zone 149",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.04425549507141,
+              48.44300254913165
+            ],
+            [
+              16.044384241104126,
+              48.443287233611116
+            ],
+            [
+              16.044673919677734,
+              48.44322317974237
+            ],
+            [
+              16.04451298713684,
+              48.44294561204427
+            ],
+            [
+              16.04425549507141,
+              48.44300254913165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 150,
+        "name": "Zone 149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.044464707374573,
+          48.44311642282769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 151,
+        "name": "Zone 151",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.057446599006653,
+              48.436728409873226
+            ],
+            [
+              16.05780601501465,
+              48.436938390764624
+            ],
+            [
+              16.05798840522766,
+              48.436813825933775
+            ],
+            [
+              16.05755925178528,
+              48.43661452156912
+            ],
+            [
+              16.057446599006653,
+              48.436728409873226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 152,
+        "name": "Zone 151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.057717502117157,
+          48.43677645616687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 153,
+        "name": "Zone 153",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.076195240020752,
+              48.424487515554986
+            ],
+            [
+              16.076838970184326,
+              48.42494317597052
+            ],
+            [
+              16.077311038970947,
+              48.42461567045975
+            ],
+            [
+              16.076602935791016,
+              48.42421696525043
+            ],
+            [
+              16.076195240020752,
+              48.424487515554986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 154,
+        "name": "Zone 153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.07675313949585,
+          48.424580070610475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 155,
+        "name": "Zone 155",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.095153093338013,
+              48.41595024729661
+            ],
+            [
+              16.095271110534668,
+              48.41623508336816
+            ],
+            [
+              16.095592975616455,
+              48.41618523717083
+            ],
+            [
+              16.09548568725586,
+              48.41588615896057
+            ],
+            [
+              16.095153093338013,
+              48.41595024729661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 156,
+        "name": "Zone 155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.095373034477234,
+          48.41606062116436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 157,
+        "name": "Zone 157",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.104733943939205,
+              48.41018197349872
+            ],
+            [
+              16.1050021648407,
+              48.41039562493846
+            ],
+            [
+              16.105227470397946,
+              48.41025319074504
+            ],
+            [
+              16.10492706298828,
+              48.41003953870685
+            ],
+            [
+              16.104733943939205,
+              48.41018197349872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 158,
+        "name": "Zone 157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.104980707168576,
+          48.41021758182265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 159,
+        "name": "Zone 159",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.114990711212158,
+              48.407148026178724
+            ],
+            [
+              16.115130186080933,
+              48.407489888446335
+            ],
+            [
+              16.11540913581848,
+              48.40744003367543
+            ],
+            [
+              16.115258932113644,
+              48.40709104891069
+            ],
+            [
+              16.114990711212158,
+              48.407148026178724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 160,
+        "name": "Zone 159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.11519992351532,
+          48.40729046867851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 161,
+        "name": "Zone 161",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.136029958724976,
+              48.40405691718546
+            ],
+            [
+              16.135997772216797,
+              48.404356064976206
+            ],
+            [
+              16.136298179626465,
+              48.4043631875212
+            ],
+            [
+              16.136351823806763,
+              48.40405691718546
+            ],
+            [
+              16.136029958724976,
+              48.40405691718546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 162,
+        "name": "Zone 161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.13617479801178,
+          48.40421005235333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 163,
+        "name": "Zone 163",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.155760288238525,
+              48.3967984827851
+            ],
+            [
+              16.156082153320312,
+              48.39729713260604
+            ],
+            [
+              16.156575679779053,
+              48.39715466172736
+            ],
+            [
+              16.156253814697266,
+              48.39662751600707
+            ],
+            [
+              16.155760288238525,
+              48.3967984827851
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 164,
+        "name": "Zone 163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15616798400879,
+          48.39696232430656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 165,
+        "name": "Zone 165",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.175791025161743,
+              48.39007335637795
+            ],
+            [
+              16.176048517227173,
+              48.39023009613515
+            ],
+            [
+              16.176209449768066,
+              48.39009473000962
+            ],
+            [
+              16.17589831352234,
+              48.38993798983546
+            ],
+            [
+              16.175791025161743,
+              48.39007335637795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 166,
+        "name": "Zone 165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.176000237464905,
+          48.39008404298531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 167,
+        "name": "Zone 167",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.18035078048706,
+              48.38482942080278
+            ],
+            [
+              16.18088722229004,
+              48.38512155642569
+            ],
+            [
+              16.18112325668335,
+              48.38491492408549
+            ],
+            [
+              16.180619001388546,
+              48.384672664411404
+            ],
+            [
+              16.18035078048706,
+              48.38482942080278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 168,
+        "name": "Zone 167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.180737018585205,
+          48.38489711041855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "event": "EntranceExit",
+        "id": 169,
+        "name": "Zone 169",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.197388172149655,
+              48.380789226956985
+            ],
+            [
+              16.197420358657837,
+              48.38124527900261
+            ],
+            [
+              16.197752952575684,
+              48.381223901654245
+            ],
+            [
+              16.197742223739624,
+              48.38076072356848
+            ],
+            [
+              16.197388172149655,
+              48.380789226956985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "radius": 100,
+        "event": "EntranceExit",
+        "id": 170,
+        "name": "Zone 169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19757056236267,
+          48.38100300128555
+        ]
+      }
     }
   ]
 }
