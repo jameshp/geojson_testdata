@@ -1200,6 +1200,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 78,
@@ -1216,6 +1219,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 79,
@@ -1232,6 +1238,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 80,
@@ -1757,6 +1766,129 @@
             [
               16.330752968788147,
               48.133916944420776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 100,
+        "name": "A02_001-03-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.33220136165619,
+              48.13727503292836
+            ],
+            [
+              16.33194386959076,
+              48.137325151988854
+            ],
+            [
+              16.332008242607117,
+              48.13749698839628
+            ],
+            [
+              16.332271099090576,
+              48.137425389963084
+            ],
+            [
+              16.33220136165619,
+              48.13727503292836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 101,
+        "name": "A02_001-02-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.334156692028046,
+              48.14124681677153
+            ],
+            [
+              16.3337704539299,
+              48.14129335230038
+            ],
+            [
+              16.333869695663452,
+              48.141479493993856
+            ],
+            [
+              16.334218382835388,
+              48.14143832810054
+            ],
+            [
+              16.334156692028046,
+              48.14124681677153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 102,
+        "name": "A02_001-01-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.334813833236694,
+              48.14271266566505
+            ],
+            [
+              16.33446514606476,
+              48.1428451090465
+            ],
+            [
+              16.33466899394989,
+              48.143106415256376
+            ],
+            [
+              16.335028409957886,
+              48.142948915782284
+            ],
+            [
+              16.334813833236694,
+              48.14271266566505
             ]
           ]
         ]
