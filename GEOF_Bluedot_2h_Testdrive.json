@@ -579,6 +579,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 98.7,
         "event": "EntranceExit",
         "id": 37,
@@ -595,6 +598,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 38,
@@ -611,6 +617,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 39,
@@ -619,14 +628,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.4164302,
-          48.19299284
+          16.416465640068054,
+          48.19298257210705
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 40,
@@ -643,6 +655,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 41,
@@ -3562,6 +3577,170 @@
             [
               16.405211091041565,
               48.18540257660056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 141,
+        "name": "A23_012-00-AS_St_Marx",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.408027410507202,
+              48.18708532870598
+            ],
+            [
+              16.40772968530655,
+              48.187256998503685
+            ],
+            [
+              16.407984495162964,
+              48.187457279207585
+            ],
+            [
+              16.408287584781647,
+              48.18725163383122
+            ],
+            [
+              16.408027410507202,
+              48.18708532870598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 142,
+        "name": "A23_011-00-Station_010_056_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.412141919136047,
+              48.18980515444715
+            ],
+            [
+              16.41170740127563,
+              48.19010198402314
+            ],
+            [
+              16.412120461463925,
+              48.19040596433708
+            ],
+            [
+              16.41254961490631,
+              48.19007695026984
+            ],
+            [
+              16.412141919136047,
+              48.18980515444715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 143,
+        "name": "A23_010-00-KN_Prater  /  A23-005-00_KNA23_Prater",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.416186690330505,
+              48.19306839720075
+            ],
+            [
+              16.416524648666382,
+              48.19285741025438
+            ],
+            [
+              16.416733860969543,
+              48.19302548467186
+            ],
+            [
+              16.416398584842682,
+              48.19319713457176
+            ],
+            [
+              16.416186690330505,
+              48.19306839720075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 144,
+        "name": "A23_009-01-Station_011_175_1_SKE_50",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.420100033283234,
+              48.195271192077804
+            ],
+            [
+              16.41966015100479,
+              48.19552686749214
+            ],
+            [
+              16.41990154981613,
+              48.19570744865935
+            ],
+            [
+              16.420325338840485,
+              48.195453562084225
+            ],
+            [
+              16.420100033283234,
+              48.195271192077804
             ]
           ]
         ]
