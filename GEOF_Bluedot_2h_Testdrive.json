@@ -58,6 +58,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
         "id": 5,
@@ -880,6 +883,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 56,
@@ -896,6 +902,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 57,
@@ -912,6 +921,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 58,
@@ -928,6 +940,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 59,
@@ -944,6 +959,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 60,
@@ -2684,6 +2702,252 @@
             [
               16.3323837518692,
               48.170187346321015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 121,
+        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.336989104747772,
+              48.170915390717056
+            ],
+            [
+              16.337109804153442,
+              48.17130176880262
+            ],
+            [
+              16.338064670562744,
+              48.17120159698589
+            ],
+            [
+              16.33789300918579,
+              48.170836683713105
+            ],
+            [
+              16.336989104747772,
+              48.170915390717056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 122,
+        "name": "A23_020-00-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.343708038330078,
+              48.15006096700265
+            ],
+            [
+              16.34399503469467,
+              48.14989096217797
+            ],
+            [
+              16.343820691108704,
+              48.14975674744491
+            ],
+            [
+              16.34353905916214,
+              48.14992138413533
+            ],
+            [
+              16.343708038330078,
+              48.15006096700265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 123,
+        "name": "A02_001-00-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.343866288661957,
+              48.15013433733195
+            ],
+            [
+              16.344139873981476,
+              48.14998043847171
+            ],
+            [
+              16.344335675239563,
+              48.15015223251829
+            ],
+            [
+              16.34404867887497,
+              48.150290025244196
+            ],
+            [
+              16.343866288661957,
+              48.15013433733195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 124,
+        "name": "A23_019-03-Station_003_685_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.347028613090515,
+              48.15187729918699
+            ],
+            [
+              16.34720027446747,
+              48.15161603762943
+            ],
+            [
+              16.34762406349182,
+              48.151762773736465
+            ],
+            [
+              16.347457766532898,
+              48.151986456019124
+            ],
+            [
+              16.347028613090515,
+              48.15187729918699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 125,
+        "name": "A23_019-02-Station_003_685_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.351073384284973,
+              48.15272370591975
+            ],
+            [
+              16.35111629962921,
+              48.15236224005901
+            ],
+            [
+              16.351845860481262,
+              48.15243023878172
+            ],
+            [
+              16.3517814874649,
+              48.15277738875123
+            ],
+            [
+              16.351073384284973,
+              48.15272370591975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 126,
+        "name": "A23_019-01-Station_003_685_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.35715663433075,
+              48.15264676043005
+            ],
+            [
+              16.357089579105377,
+              48.1523837133496
+            ],
+            [
+              16.357558965682983,
+              48.15235150341035
+            ],
+            [
+              16.35760724544525,
+              48.15261812952071
+            ],
+            [
+              16.35715663433075,
+              48.15264676043005
             ]
           ]
         ]
