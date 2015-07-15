@@ -964,6 +964,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 62,
@@ -1257,6 +1260,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 81,
@@ -1273,6 +1279,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 82,
@@ -1289,6 +1298,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 83,
@@ -1305,6 +1317,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 84,
@@ -1337,6 +1352,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 26.7,
         "event": "EntranceExit",
         "id": 86,
@@ -1353,6 +1371,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 87,
@@ -1401,6 +1422,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
         "id": 90,
@@ -1889,6 +1913,334 @@
             [
               16.334813833236694,
               48.14271266566505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 103,
+        "name": "A23_020-01-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.338558197021484,
+              48.152634234409184
+            ],
+            [
+              16.338740587234497,
+              48.15287759655304
+            ],
+            [
+              16.339067816734314,
+              48.1527594944803
+            ],
+            [
+              16.338847875595093,
+              48.15249465854117
+            ],
+            [
+              16.338558197021484,
+              48.152634234409184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 104,
+        "name": "A23_020-02-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.333735585212708,
+              48.154262591483956
+            ],
+            [
+              16.334084272384644,
+              48.15471709071749
+            ],
+            [
+              16.334497332572937,
+              48.15455604814251
+            ],
+            [
+              16.334062814712524,
+              48.15407649614792
+            ],
+            [
+              16.333735585212708,
+              48.154262591483956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 105,
+        "name": "A23_020-03-KN_Inzersdorf",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.328521370887756,
+              48.156216551763194
+            ],
+            [
+              16.32868230342865,
+              48.15652431161732
+            ],
+            [
+              16.329063177108765,
+              48.15643126813518
+            ],
+            [
+              16.328875422477722,
+              48.156119929102644
+            ],
+            [
+              16.328521370887756,
+              48.156216551763194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 106,
+        "name": "0000_099_Zanaschkagasse",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.32519006729126,
+              48.157447580103316
+            ],
+            [
+              16.325302720069885,
+              48.157655134297315
+            ],
+            [
+              16.325570940971375,
+              48.15757282842432
+            ],
+            [
+              16.32542610168457,
+              48.15735095976109
+            ],
+            [
+              16.32519006729126,
+              48.157447580103316
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 107,
+        "name": "A23_021-00-Station_000_377_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.32347345352173,
+              48.15730086025273
+            ],
+            [
+              16.323607563972473,
+              48.1575692499051
+            ],
+            [
+              16.323983073234558,
+              48.15750125799263
+            ],
+            [
+              16.323789954185486,
+              48.15722213235506
+            ],
+            [
+              16.32347345352173,
+              48.15730086025273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 108,
+        "name": "A23_022-00-Altmannsdorf_01",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.317918598651886,
+              48.15927080763275
+            ],
+            [
+              16.31854623556137,
+              48.15932627281288
+            ],
+            [
+              16.318591833114624,
+              48.159145563457024
+            ],
+            [
+              16.31793737411499,
+              48.15908830887487
+            ],
+            [
+              16.317918598651886,
+              48.15927080763275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 109,
+        "name": "A23_023-00-Altmannsdorf_02",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.317121982574463,
+              48.163303506655964
+            ],
+            [
+              16.317414343357086,
+              48.16334107689541
+            ],
+            [
+              16.317441165447235,
+              48.1632068973424
+            ],
+            [
+              16.317151486873627,
+              48.163171116069
+            ],
+            [
+              16.317121982574463,
+              48.163303506655964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 110,
+        "name": "0224-001-00-Altmannsdorf_Breitenfurter_Strasse",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.316542625427246,
+              48.16532689324145
+            ],
+            [
+              16.3169127702713,
+              48.165394874782315
+            ],
+            [
+              16.31668746471405,
+              48.166003126664755
+            ],
+            [
+              16.316311955451965,
+              48.16595303560584
+            ],
+            [
+              16.316542625427246,
+              48.16532689324145
             ]
           ]
         ]
