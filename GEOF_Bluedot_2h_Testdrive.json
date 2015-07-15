@@ -659,6 +659,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 42,
@@ -675,6 +678,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 106.7,
         "event": "EntranceExit",
         "id": 43,
@@ -691,6 +697,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 127.4,
         "event": "EntranceExit",
         "id": 44,
@@ -3389,6 +3398,170 @@
             [
               16.397899389266964,
               48.17161659323837
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 137,
+        "name": "A23_015-00-AS_Landstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.401225328445435,
+              48.18026993087149
+            ],
+            [
+              16.401992440223694,
+              48.179822811961806
+            ],
+            [
+              16.402459144592285,
+              48.1802484692529
+            ],
+            [
+              16.401745676994324,
+              48.180606161722615
+            ],
+            [
+              16.401225328445435,
+              48.18026993087149
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 138,
+        "name": "A23_014-00-Station_009_068_1_MAS_50",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.40383243560791,
+              48.183074171740635
+            ],
+            [
+              16.404481530189514,
+              48.182952562436085
+            ],
+            [
+              16.404669284820557,
+              48.1834211143473
+            ],
+            [
+              16.404020190238953,
+              48.183524839000526
+            ],
+            [
+              16.40383243560791,
+              48.183074171740635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 139,
+        "name": "A23_013-00-Station_009_076_2_MAS_50",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.404218673706055,
+              48.18391112206966
+            ],
+            [
+              16.4048570394516,
+              48.18377163129716
+            ],
+            [
+              16.4050555229187,
+              48.184215139104666
+            ],
+            [
+              16.404417157173157,
+              48.184354628670214
+            ],
+            [
+              16.404218673706055,
+              48.18391112206966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 140,
+        "name": "A23_012-01-AS_St_Marx",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.405211091041565,
+              48.18540257660056
+            ],
+            [
+              16.405758261680603,
+              48.185191558091674
+            ],
+            [
+              16.40609622001648,
+              48.18558140516527
+            ],
+            [
+              16.405543684959408,
+              48.18577453931438
+            ],
+            [
+              16.405211091041565,
+              48.18540257660056
             ]
           ]
         ]
