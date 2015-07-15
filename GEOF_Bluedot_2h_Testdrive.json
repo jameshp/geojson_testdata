@@ -1390,6 +1390,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
         "id": 88,
@@ -1406,6 +1409,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
         "id": 89,
@@ -1473,6 +1479,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 240.4,
         "event": "EntranceExit",
         "id": 95,
@@ -2241,6 +2250,129 @@
             [
               16.316542625427246,
               48.16532689324145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 111,
+        "name": "0012_013-00-Breitenfurterstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.319959759712216,
+              48.16881172562359
+            ],
+            [
+              16.320362091064453,
+              48.16862926080872
+            ],
+            [
+              16.320742964744568,
+              48.16905501103356
+            ],
+            [
+              16.320345997810364,
+              48.16921958580352
+            ],
+            [
+              16.319959759712216,
+              48.16881172562359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 112,
+        "name": "0012_014-00-Breitenfurterstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.323344707489014,
+              48.171240950222945
+            ],
+            [
+              16.323634386062622,
+              48.17101198551136
+            ],
+            [
+              16.324111819267273,
+              48.17127672586679
+            ],
+            [
+              16.323843598365784,
+              48.171498534301485
+            ],
+            [
+              16.323344707489014,
+              48.171240950222945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 113,
+        "name": "0225-006-01-Wienerberggasse-Breitenfurterstrasse",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.326783299446102,
+              48.17248235047064
+            ],
+            [
+              16.32718026638031,
+              48.172049473681625
+            ],
+            [
+              16.328231692314148,
+              48.17193857077574
+            ],
+            [
+              16.32866084575653,
+              48.172375025987606
+            ],
+            [
+              16.326783299446102,
+              48.17248235047064
             ]
           ]
         ]
