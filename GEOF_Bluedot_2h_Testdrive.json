@@ -723,6 +723,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 46,
@@ -739,6 +742,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 148,
         "event": "EntranceExit",
         "id": 47,
@@ -755,6 +761,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 113,
         "event": "EntranceExit",
         "id": 48,
@@ -771,6 +780,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 197.4,
         "event": "EntranceExit",
         "id": 49,
@@ -787,6 +799,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 50,
@@ -3169,6 +3184,211 @@
             [
               16.3773375749588,
               48.1592690184324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 132,
+        "name": "A23_018-00-Verteilerkreis_Favoriten",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.382938027381893,
+              48.16100809173274
+            ],
+            [
+              16.38335645198822,
+              48.16060016625109
+            ],
+            [
+              16.384064555168152,
+              48.160993778612855
+            ],
+            [
+              16.383549571037292,
+              48.16130150981023
+            ],
+            [
+              16.382938027381893,
+              48.16100809173274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 133,
+        "name": "A23_017-01-Station_006_979_1_SKE_100",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.385668516159058,
+              48.1646560179401
+            ],
+            [
+              16.386438310146332,
+              48.16449142852573
+            ],
+            [
+              16.386668980121613,
+              48.16492973612277
+            ],
+            [
+              16.38584554195404,
+              48.16502634219143
+            ],
+            [
+              16.385668516159058,
+              48.1646560179401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 134,
+        "name": "A23_017-00-Station_006_979_1_SKE_100",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.390534043312073,
+              48.16878131486618
+            ],
+            [
+              16.3908451795578,
+              48.16858275006578
+            ],
+            [
+              16.391199231147766,
+              48.16885465842686
+            ],
+            [
+              16.39083981513977,
+              48.16902102270005
+            ],
+            [
+              16.390534043312073,
+              48.16878131486618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 135,
+        "name": "A23_016-00-Station_007_065_2_SKE_100",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.39205753803253,
+              48.16989219024293
+            ],
+            [
+              16.392395496368408,
+              48.16962028738289
+            ],
+            [
+              16.39285683631897,
+              48.16984210298231
+            ],
+            [
+              16.392556428909298,
+              48.17014262581233
+            ],
+            [
+              16.39205753803253,
+              48.16989219024293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 136,
+        "name": "A23_015-02-AS_Landstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.397899389266964,
+              48.17161659323837
+            ],
+            [
+              16.398280262947083,
+              48.17137689753673
+            ],
+            [
+              16.398661136627197,
+              48.17175969461568
+            ],
+            [
+              16.398237347602844,
+              48.17189921807408
+            ],
+            [
+              16.397899389266964,
+              48.17161659323837
             ]
           ]
         ]
