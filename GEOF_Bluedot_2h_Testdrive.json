@@ -147,10 +147,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 71.3,
         "event": "EntranceExit",
         "id": 10,
-        "name": "0000_006_MargaretengÃ¼rtel-EichenstraÃe"
+        "name": "0000_006_Margaretengürtel-Eichenstraße"
       },
       "geometry": {
         "type": "Point",
@@ -163,10 +166,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 38.8,
         "event": "EntranceExit",
         "id": 11,
-        "name": "0000_007_Wiedner_GÃ¼rtel_FavoritenstraÃe"
+        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße"
       },
       "geometry": {
         "type": "Point",
@@ -179,10 +185,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 45.6,
         "event": "EntranceExit",
         "id": 12,
-        "name": "0000_008_FavoritenstraÃe"
+        "name": "0000_008_Favoritenstraße"
       },
       "geometry": {
         "type": "Point",
@@ -195,10 +204,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 13,
-        "name": "0000_001_KÃ¤rntner_StraÃe_entering_garage"
+        "name": "0000_001_Kärntner_Straße_entering_garage"
       },
       "geometry": {
         "type": "Point",
@@ -211,10 +223,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 26.7,
         "event": "EntranceExit",
         "id": 14,
-        "name": "0000_001_KÃ¤rntner_StraÃe_passing_garage"
+        "name": "0000_001_Kärntner_Straße_passing_garage"
       },
       "geometry": {
         "type": "Point",
@@ -227,6 +242,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 34.4,
         "event": "EntranceExit",
         "id": 15,
@@ -243,6 +261,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 40.1,
         "event": "EntranceExit",
         "id": 16,
@@ -275,10 +296,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 57.4,
         "event": "EntranceExit",
         "id": 18,
-        "name": "0000_012_Tuchlauben_BrandstÃ¤tte"
+        "name": "0000_012_Tuchlauben_Brandstätte"
       },
       "geometry": {
         "type": "Point",
@@ -532,6 +556,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 200.6,
         "event": "EntranceExit",
         "id": 32,
@@ -3958,9 +3985,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 149,
-        "name": "Zone 149",
+        "name": "A23_007-01-Station_012_900_0_MAS_150",
         "bothdirections": 0
       },
       "geometry": {
@@ -4437,6 +4469,293 @@
             [
               16.409218311309814,
               48.2342960861615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 161,
+        "name": "0000_006_Margaretengürtel-Eichenstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.348541378974915,
+              48.1802484692529
+            ],
+            [
+              16.349270939826965,
+              48.18097815924356
+            ],
+            [
+              16.35029554367065,
+              48.18057396950254
+            ],
+            [
+              16.34963035583496,
+              48.179787042280566
+            ],
+            [
+              16.348541378974915,
+              48.1802484692529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 162,
+        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.373231112957,
+              48.18628061886414
+            ],
+            [
+              16.37405455112457,
+              48.186359302161506
+            ],
+            [
+              16.374078691005707,
+              48.18590508328071
+            ],
+            [
+              16.37333571910858,
+              48.18586216475312
+            ],
+            [
+              16.373231112957,
+              48.18628061886414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 163,
+        "name": "0000_008_Favoritenstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.36809468269348,
+              48.196177671880655
+            ],
+            [
+              16.369017362594604,
+              48.1964923435652
+            ],
+            [
+              16.369226574897766,
+              48.196088276163195
+            ],
+            [
+              16.36840045452118,
+              48.195823663925424
+            ],
+            [
+              16.36809468269348,
+              48.196177671880655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 164,
+        "name": "0000_001_Kärntner_Straße_entering_garage / 0000_001_Kärntner_Straße_passing_garage",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.369714736938477,
+              48.203175084642616
+            ],
+            [
+              16.3702780008316,
+              48.20307318743148
+            ],
+            [
+              16.370036602020264,
+              48.20263878125723
+            ],
+            [
+              16.36951357126236,
+              48.202760343850045
+            ],
+            [
+              16.369714736938477,
+              48.203175084642616
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 165,
+        "name": "0000_010_Josefsplatz",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.367121040821075,
+              48.20657332990618
+            ],
+            [
+              16.367778182029724,
+              48.20669130806969
+            ],
+            [
+              16.36799544095993,
+              48.20618364252568
+            ],
+            [
+              16.367351710796356,
+              48.20603706210141
+            ],
+            [
+              16.367121040821075,
+              48.20657332990618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 166,
+        "name": "0000_009_Dorotheergasse",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.369822025299072,
+              48.206267657945595
+            ],
+            [
+              16.370071470737454,
+              48.2065518793018
+            ],
+            [
+              16.369368731975555,
+              48.20678604791337
+            ],
+            [
+              16.369154155254364,
+              48.20654472909835
+            ],
+            [
+              16.369822025299072,
+              48.206267657945595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 167,
+        "name": "0000_012_Tuchlauben_Brandstätte",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3708359003067,
+              48.21073636463017
+            ],
+            [
+              16.371248960494995,
+              48.210343134088866
+            ],
+            [
+              16.370245814323425,
+              48.2099463256636
+            ],
+            [
+              16.369966864585876,
+              48.21047182805297
+            ],
+            [
+              16.3708359003067,
+              48.21073636463017
             ]
           ]
         ]
