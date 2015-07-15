@@ -515,6 +515,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 187.9,
         "event": "EntranceExit",
         "id": 33,
@@ -3873,6 +3876,47 @@
             [
               16.425756812095642,
               48.19919021635897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 148,
+        "name": "A23_007-02-Station_012_900_0_MAS_150",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.42952799797058,
+              48.20234202430422
+            ],
+            [
+              16.43006980419159,
+              48.201977332682084
+            ],
+            [
+              16.43084228038788,
+              48.202520793758914
+            ],
+            [
+              16.43031120300293,
+              48.20285330328519
+            ],
+            [
+              16.42952799797058,
+              48.20234202430422
             ]
           ]
         ]
