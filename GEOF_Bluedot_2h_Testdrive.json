@@ -64,7 +64,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 5,
-        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse"
+        "name": "0225-003-00-WienerbergstraÃe_Eibesbrunnergasse"
       },
       "geometry": {
         "type": "Point",
@@ -83,7 +83,7 @@
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 6,
-        "name": "Zone 3 Cemetery Unter-Meidlinger-Straße"
+        "name": "Zone 3 Cemetery Unter-Meidlinger-StraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 7,
-        "name": "0225-005-01-Wienerbergstraße_Südbahn"
+        "name": "0225-005-01-WienerbergstraÃe_SÃ¼dbahn"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +134,7 @@
         "radius": 52,
         "event": "EntranceExit",
         "id": 9,
-        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße"
+        "name": "0000_005_Wienerbergbruecke-EdelsinnstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -150,7 +150,7 @@
         "radius": 71.3,
         "event": "EntranceExit",
         "id": 10,
-        "name": "0000_006_Margaretengürtel-Eichenstraße"
+        "name": "0000_006_MargaretengÃ¼rtel-EichenstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +166,7 @@
         "radius": 38.8,
         "event": "EntranceExit",
         "id": 11,
-        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße"
+        "name": "0000_007_Wiedner_GÃ¼rtel_FavoritenstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +182,7 @@
         "radius": 45.6,
         "event": "EntranceExit",
         "id": 12,
-        "name": "0000_008_Favoritenstraße"
+        "name": "0000_008_FavoritenstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +198,7 @@
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 13,
-        "name": "0000_001_Kärntner_Straße_entering_garage"
+        "name": "0000_001_KÃ¤rntner_StraÃe_entering_garage"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@
         "radius": 26.7,
         "event": "EntranceExit",
         "id": 14,
-        "name": "0000_001_Kärntner_Straße_passing_garage"
+        "name": "0000_001_KÃ¤rntner_StraÃe_passing_garage"
       },
       "geometry": {
         "type": "Point",
@@ -262,7 +262,7 @@
         "radius": 47,
         "event": "EntranceExit",
         "id": 17,
-        "name": "0000_011_Sterngasse_MarcAurelStraße"
+        "name": "0000_011_Sterngasse_MarcAurelStraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -278,7 +278,7 @@
         "radius": 57.4,
         "event": "EntranceExit",
         "id": 18,
-        "name": "0000_012_Tuchlauben_Brandstätte"
+        "name": "0000_012_Tuchlauben_BrandstÃ¤tte"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +294,7 @@
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 19,
-        "name": "0000_013_Rotenturmstraße"
+        "name": "0000_013_RotenturmstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -323,6 +323,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 38.1,
         "event": "EntranceExit",
         "id": 21,
@@ -339,6 +342,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 80,
         "event": "EntranceExit",
         "id": 22,
@@ -355,6 +361,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 119.6,
         "event": "EntranceExit",
         "id": 23,
@@ -371,6 +380,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 90.5,
         "event": "EntranceExit",
         "id": 24,
@@ -387,6 +399,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 54.2,
         "event": "EntranceExit",
         "id": 25,
@@ -403,6 +418,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 26,
@@ -419,6 +437,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
         "id": 27,
@@ -435,6 +456,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 55.4,
         "event": "EntranceExit",
         "id": 28,
@@ -451,6 +475,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 29,
@@ -467,6 +494,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 55.8,
         "event": "EntranceExit",
         "id": 30,
@@ -483,6 +513,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 173.6,
         "event": "EntranceExit",
         "id": 31,
@@ -746,7 +779,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 45,
-        "name": "A23_015-00-AS_Landstraße"
+        "name": "A23_015-00-AS_LandstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -765,7 +798,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 46,
-        "name": "A23_015-02-AS_Landstraße"
+        "name": "A23_015-02-AS_LandstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -1162,7 +1195,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 70,
-        "name": "A02_003-00-KN_Vösendorf_01"
+        "name": "A02_003-00-KN_VÃ¶sendorf_01"
       },
       "geometry": {
         "type": "Point",
@@ -1213,7 +1246,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 73,
-        "name": "A02_004-00-KN_Vösendorf_02"
+        "name": "A02_004-00-KN_VÃ¶sendorf_02"
       },
       "geometry": {
         "type": "Point",
@@ -1229,7 +1262,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 74,
-        "name": "A02_003-00-KN_Vösendorf_01"
+        "name": "A02_003-00-KN_VÃ¶sendorf_01"
       },
       "geometry": {
         "type": "Point",
@@ -1492,7 +1525,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 88,
-        "name": "0012_013-00-Breitenfurterstraße"
+        "name": "0012_013-00-BreitenfurterstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1544,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 89,
-        "name": "0012_014-00-Breitenfurterstraße"
+        "name": "0012_014-00-BreitenfurterstraÃe"
       },
       "geometry": {
         "type": "Point",
@@ -1568,7 +1601,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 94,
-        "name": "0225-005-01-Wienerbergstraße_Südbahn"
+        "name": "0225-005-01-WienerbergstraÃe_SÃ¼dbahn"
       },
       "geometry": {
         "type": "Point",
@@ -1717,7 +1750,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 95,
-        "name": "A02_004-00-KN_Vösendorf_02",
+        "name": "A02_004-00-KN_VÃ¶sendorf_02",
         "bothdirections": 0
       },
       "geometry": {
@@ -1758,7 +1791,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 96,
-        "name": "A02_003-00-KN_Vösendorf_01",
+        "name": "A02_003-00-KN_VÃ¶sendorf_01",
         "bothdirections": 0
       },
       "geometry": {
@@ -2373,7 +2406,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 111,
-        "name": "0012_013-00-Breitenfurterstraße",
+        "name": "0012_013-00-BreitenfurterstraÃe",
         "bothdirections": 0
       },
       "geometry": {
@@ -2414,7 +2447,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 112,
-        "name": "0012_014-00-Breitenfurterstraße",
+        "name": "0012_014-00-BreitenfurterstraÃe",
         "bothdirections": 0
       },
       "geometry": {
@@ -2496,7 +2529,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 114,
-        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße",
+        "name": "0000_005_Wienerbergbruecke-EdelsinnstraÃe",
         "bothdirections": 0
       },
       "geometry": {
@@ -2537,7 +2570,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 115,
-        "name": "0225-005-01-Wienerbergstraße_Südbahn",
+        "name": "0225-005-01-WienerbergstraÃe_SÃ¼dbahn",
         "bothdirections": 0
       },
       "geometry": {
@@ -2660,7 +2693,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 118,
-        "name": "Zone 3 Cemetery Unter-Meidlinger-Straße",
+        "name": "Zone 3 Cemetery Unter-Meidlinger-StraÃe",
         "bothdirections": 0
       },
       "geometry": {
@@ -2784,7 +2817,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 121,
-        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse",
+        "name": "0225-003-00-WienerbergstraÃe_Eibesbrunnergasse",
         "bothdirections": 0
       },
       "geometry": {
@@ -3399,7 +3432,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 136,
-        "name": "A23_015-02-AS_Landstraße",
+        "name": "A23_015-02-AS_LandstraÃe",
         "bothdirections": 0
       },
       "geometry": {
@@ -3440,7 +3473,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 137,
-        "name": "A23_015-00-AS_Landstraße",
+        "name": "A23_015-00-AS_LandstraÃe",
         "bothdirections": 0
       },
       "geometry": {
@@ -3953,6 +3986,457 @@
             [
               16.43374443054199,
               48.20529879090437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 150,
+        "name": "A23_007-00-Station_012_900_0_MAS_150",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.43855631351471,
+              48.207938999891276
+            ],
+            [
+              16.438239812850952,
+              48.20813741226512
+            ],
+            [
+              16.4385187625885,
+              48.2083429738237
+            ],
+            [
+              16.438848674297333,
+              48.2081534997212
+            ],
+            [
+              16.43855631351471,
+              48.207938999891276
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 151,
+        "name": "A23_006-00-KN_Donauufer",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.440533101558685,
+              48.20925100979254
+            ],
+            [
+              16.440149545669556,
+              48.209535214592684
+            ],
+            [
+              16.440466046333313,
+              48.209721108703086
+            ],
+            [
+              16.440812051296234,
+              48.209419030431036
+            ],
+            [
+              16.440533101558685,
+              48.20925100979254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 152,
+        "name": "A22_006-01-KN_Donauufer_above",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.441761553287506,
+              48.21010361946127
+            ],
+            [
+              16.441447734832764,
+              48.21029487376895
+            ],
+            [
+              16.44181251525879,
+              48.210541537148494
+            ],
+            [
+              16.442072689533234,
+              48.2103735201929
+            ],
+            [
+              16.441761553287506,
+              48.21010361946127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 153,
+        "name": "A22_006-01-KN_Donauufer_below",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.441986858844757,
+              48.20988555293056
+            ],
+            [
+              16.44215852022171,
+              48.21000888575464
+            ],
+            [
+              16.442402601242065,
+              48.20984444192319
+            ],
+            [
+              16.442217528820038,
+              48.209728258463095
+            ],
+            [
+              16.441986858844757,
+              48.20988555293056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 154,
+        "name": "A23_006-02-KN_Donauufer",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.442649364471436,
+              48.21315645339063
+            ],
+            [
+              16.443032920360565,
+              48.212900865961835
+            ],
+            [
+              16.442775428295135,
+              48.212722132736154
+            ],
+            [
+              16.44237846136093,
+              48.21295806046229
+            ],
+            [
+              16.442649364471436,
+              48.21315645339063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 155,
+        "name": "A23_005-01-Station_014_082_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.445744633674618,
+              48.213614005321645
+            ],
+            [
+              16.446409821510315,
+              48.213331610472224
+            ],
+            [
+              16.445975303649902,
+              48.212913377264286
+            ],
+            [
+              16.445347666740417,
+              48.213199349057845
+            ],
+            [
+              16.445744633674618,
+              48.213614005321645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 156,
+        "name": "A22_000_744_1",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.434608101844788,
+              48.21486867752936
+            ],
+            [
+              16.435203552246094,
+              48.21529046925808
+            ],
+            [
+              16.4345383644104,
+              48.2157122575121
+            ],
+            [
+              16.433953642845154,
+              48.2153011927313
+            ],
+            [
+              16.434608101844788,
+              48.21486867752936
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 157,
+        "name": "0000_002_UNO_City_North",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.414175033569332,
+              48.23771549024095
+            ],
+            [
+              16.414175033569332,
+              48.236650747327644
+            ],
+            [
+              16.416471004486084,
+              48.236686477314926
+            ],
+            [
+              16.416460275650024,
+              48.237829823732945
+            ],
+            [
+              16.414175033569332,
+              48.23771549024095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 158,
+        "name": "0000_003_UNO_City_East",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.418509483337402,
+              48.23533586644073
+            ],
+            [
+              16.419249773025513,
+              48.236007603289735
+            ],
+            [
+              16.420741081237793,
+              48.23530728169834
+            ],
+            [
+              16.420000791549683,
+              48.23462838937287
+            ],
+            [
+              16.418509483337402,
+              48.23533586644073
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 159,
+        "name": "A22_051-00-Station_004_051_1",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.404680013656616,
+              48.23749754131408
+            ],
+            [
+              16.40531837940216,
+              48.23777265701888
+            ],
+            [
+              16.405650973320007,
+              48.237408217715135
+            ],
+            [
+              16.404958963394165,
+              48.23715811080847
+            ],
+            [
+              16.404680013656616,
+              48.23749754131408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 160,
+        "name": "0000_001_UNO_City_West",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.409218311309814,
+              48.2342960861615
+            ],
+            [
+              16.409223675727844,
+              48.23500714093903
+            ],
+            [
+              16.40810787677765,
+              48.23513219980271
+            ],
+            [
+              16.40804350376129,
+              48.23427822033628
+            ],
+            [
+              16.409218311309814,
+              48.2342960861615
             ]
           ]
         ]
