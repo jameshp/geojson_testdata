@@ -803,6 +803,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 51,
@@ -819,6 +822,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 52,
@@ -835,6 +841,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 53,
@@ -851,6 +860,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 54,
@@ -867,6 +879,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 60,
         "event": "EntranceExit",
         "id": 55,
@@ -2677,7 +2692,8 @@
         "event": "EntranceExit",
         "id": 120,
         "name": "0225-003-07-Wagenseilgasse / Europlaza Entry Parkgarage",
-        "bothdirections": 0
+        "bothdirections": 0,
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2948,6 +2964,211 @@
             [
               16.35715663433075,
               48.15264676043005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 127,
+        "name": "A23_019-00-Station_003_685_0_MAS",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.362893879413605,
+              48.15167330055039
+            ],
+            [
+              16.36300653219223,
+              48.15192024616505
+            ],
+            [
+              16.363591253757477,
+              48.15180929973157
+            ],
+            [
+              16.363492012023926,
+              48.15155519570592
+            ],
+            [
+              16.362893879413605,
+              48.15167330055039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 128,
+        "name": "A23_018-04-Verteilerkreis_Favoriten",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.36834681034088,
+              48.150662242706176
+            ],
+            [
+              16.368443369865417,
+              48.15094140403091
+            ],
+            [
+              16.369178295135498,
+              48.15081971851195
+            ],
+            [
+              16.369017362594604,
+              48.1505155034522
+            ],
+            [
+              16.36834681034088,
+              48.150662242706176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 129,
+        "name": "A23_018-03-Verteilerkreis_Favoriten",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.374140381813046,
+              48.15197571929183
+            ],
+            [
+              16.37458026409149,
+              48.151818247033496
+            ],
+            [
+              16.374204754829407,
+              48.15144961690269
+            ],
+            [
+              16.373786330223083,
+              48.15162498496505
+            ],
+            [
+              16.374140381813046,
+              48.15197571929183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 130,
+        "name": "A23_018-02-Verteilerkreis_Favoriten",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.374757289886475,
+              48.156044778018625
+            ],
+            [
+              16.37540102005005,
+              48.15597320545532
+            ],
+            [
+              16.37516498565674,
+              48.15542925071139
+            ],
+            [
+              16.3746178150177,
+              48.155479352047344
+            ],
+            [
+              16.374757289886475,
+              48.156044778018625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 131,
+        "name": "A23_018-01-Verteilerkreis_Favoriten",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3773375749588,
+              48.1592690184324
+            ],
+            [
+              16.377986669540405,
+              48.158760883005556
+            ],
+            [
+              16.378453373908997,
+              48.1590614707675
+            ],
+            [
+              16.37786328792572,
+              48.159505192340035
+            ],
+            [
+              16.3773375749588,
+              48.1592690184324
             ]
           ]
         ]
