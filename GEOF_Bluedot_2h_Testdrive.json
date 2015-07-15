@@ -68,6 +68,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 6,
@@ -116,6 +119,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 52,
         "event": "EntranceExit",
         "id": 9,
@@ -1447,6 +1453,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 29.4,
         "event": "EntranceExit",
         "id": 91,
@@ -1463,6 +1472,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
         "id": 94,
@@ -1498,6 +1510,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 96,
@@ -2373,6 +2388,211 @@
             [
               16.326783299446102,
               48.17248235047064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 114,
+        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.325860619544983,
+              48.173419641408586
+            ],
+            [
+              16.326268315315247,
+              48.173594934376936
+            ],
+            [
+              16.326740384101868,
+              48.17318710899526
+            ],
+            [
+              16.326284408569336,
+              48.17299750486237
+            ],
+            [
+              16.325860619544983,
+              48.173419641408586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 115,
+        "name": "0225-005-01-Wienerbergstraße_Südbahn",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.330050230026245,
+              48.17167025630166
+            ],
+            [
+              16.33017897605896,
+              48.17191710566948
+            ],
+            [
+              16.33113384246826,
+              48.17178473731566
+            ],
+            [
+              16.330989003181458,
+              48.17152715467476
+            ],
+            [
+              16.330050230026245,
+              48.17167025630166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 116,
+        "name": "Europlaza North",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.333000659942627,
+              48.171307135144424
+            ],
+            [
+              16.333148181438446,
+              48.17137153120223
+            ],
+            [
+              16.333322525024414,
+              48.17120159698589
+            ],
+            [
+              16.33317232131958,
+              48.17114077828744
+            ],
+            [
+              16.333000659942627,
+              48.171307135144424
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 117,
+        "name": "0225-004-01-Am_Europlatz",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.333354711532593,
+              48.17114077828744
+            ],
+            [
+              16.333569288253784,
+              48.171117524060115
+            ],
+            [
+              16.333609521389008,
+              48.171319656606435
+            ],
+            [
+              16.3333922624588,
+              48.17133575562455
+            ],
+            [
+              16.333354711532593,
+              48.17114077828744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 118,
+        "name": "Zone 3 Cemetery Unter-Meidlinger-Straße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.33179903030395,
+              48.17243226573985
+            ],
+            [
+              16.33243203163147,
+              48.17288660400687
+            ],
+            [
+              16.33340299129486,
+              48.172893758908
+            ],
+            [
+              16.332077980041504,
+              48.17208167125453
+            ],
+            [
+              16.33179903030395,
+              48.17243226573985
             ]
           ]
         ]
