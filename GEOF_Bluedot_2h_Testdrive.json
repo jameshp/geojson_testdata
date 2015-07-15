@@ -1636,7 +1636,7 @@
         "marker-symbol": "",
         "radius": 250,
         "event": "EntranceExit",
-        "id": 94,
+        "id": 92,
         "name": "0225-005-01-WienerbergstraÃe_SÃ¼dbahn"
       },
       "geometry": {
@@ -1655,7 +1655,7 @@
         "marker-symbol": "",
         "radius": 240.4,
         "event": "EntranceExit",
-        "id": 95,
+        "id": 2,
         "name": "0225-006-01-Wienerberggasse-Breitenfurterstrasse"
       },
       "geometry": {
@@ -1674,7 +1674,7 @@
         "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
-        "id": 96,
+        "id": 66,
         "name": "Europlaza North"
       },
       "geometry": {
@@ -1693,7 +1693,7 @@
         "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
-        "id": 97,
+        "id": 68,
         "name": "Europlaza Entry Parkgarage"
       },
       "geometry": {
