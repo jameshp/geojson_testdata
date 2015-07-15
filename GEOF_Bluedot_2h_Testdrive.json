@@ -280,10 +280,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 47,
         "event": "EntranceExit",
         "id": 17,
-        "name": "0000_011_Sterngasse_MarcAurelStraÃe"
+        "name": "0000_011_Sterngasse_MarcAurelStraße"
       },
       "geometry": {
         "type": "Point",
@@ -315,10 +318,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 19,
-        "name": "0000_013_RotenturmstraÃe"
+        "name": "0000_013_Rotenturmstraße"
       },
       "geometry": {
         "type": "Point",
@@ -331,6 +337,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "radius": 40.2,
         "event": "EntranceExit",
         "id": 20,
@@ -4756,6 +4765,129 @@
             [
               16.3708359003067,
               48.21073636463017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 168,
+        "name": "0000_011_Sterngasse_MarcAurelStraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.372681260108948,
+              48.211637208669536
+            ],
+            [
+              16.37238621711731,
+              48.21221631432645
+            ],
+            [
+              16.373139917850494,
+              48.21232534274531
+            ],
+            [
+              16.373338401317596,
+              48.211744450951976
+            ],
+            [
+              16.372681260108948,
+              48.211637208669536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 169,
+        "name": "0000_014_Bauernmarkt",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.374966502189636,
+              48.21097230150554
+            ],
+            [
+              16.37521594762802,
+              48.211279732772724
+            ],
+            [
+              16.37459099292755,
+              48.211496005988494
+            ],
+            [
+              16.374346911907192,
+              48.21115997778926
+            ],
+            [
+              16.374966502189636,
+              48.21097230150554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "event": "EntranceExit",
+        "id": 170,
+        "name": "0000_013_Rotenturmstraße",
+        "bothdirections": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.375634372234344,
+              48.21108311996578
+            ],
+            [
+              16.375296413898468,
+              48.21063090764494
+            ],
+            [
+              16.376122534275055,
+              48.2103735201929
+            ],
+            [
+              16.3762566447258,
+              48.21080964816997
+            ],
+            [
+              16.375634372234344,
+              48.21108311996578
             ]
           ]
         ]
