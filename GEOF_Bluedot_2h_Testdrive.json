@@ -64,7 +64,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 5,
-        "name": "0225-003-00-WienerbergstraÃÂe_Eibesbrunnergasse"
+        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse"
       },
       "geometry": {
         "type": "Point",
@@ -83,7 +83,7 @@
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 6,
-        "name": "Zone 3 Cemetery Unter-Meidlinger-StraÃÂe"
+        "name": "Zone 3 Cemetery Unter-Meidlinger-Straße"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 7,
-        "name": "0225-005-01-WienerbergstraÃÂe_SÃÂ¼dbahn"
+        "name": "0225-005-01-Wienerbergstraße_Südbahn"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +134,7 @@
         "radius": 52,
         "event": "EntranceExit",
         "id": 9,
-        "name": "0000_005_Wienerbergbruecke-EdelsinnstraÃÂe"
+        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße"
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +153,7 @@
         "radius": 71.3,
         "event": "EntranceExit",
         "id": 10,
-        "name": "0000_006_MargaretengÃ¼rtel-EichenstraÃÂe"
+        "name": "0000_006_Margaretengürtel-Eichenstraße"
       },
       "geometry": {
         "type": "Point",
@@ -172,7 +172,7 @@
         "radius": 38.8,
         "event": "EntranceExit",
         "id": 11,
-        "name": "0000_007_Wiedner_GÃ¼rtel_FavoritenstraÃÂe"
+        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße"
       },
       "geometry": {
         "type": "Point",
@@ -191,7 +191,7 @@
         "radius": 45.6,
         "event": "EntranceExit",
         "id": 12,
-        "name": "0000_008_FavoritenstraÃÂe"
+        "name": "0000_008_Favoritenstraße"
       },
       "geometry": {
         "type": "Point",
@@ -210,7 +210,7 @@
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 13,
-        "name": "0000_001_KÃ¤rntner_StraÃe_entering_garage"
+        "name": "0000_001_Kärntner_Straße_entering_garage"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
         "radius": 26.7,
         "event": "EntranceExit",
         "id": 14,
-        "name": "0000_001_KÃ¤rntner_StraÃe_passing_garage"
+        "name": "0000_001_Kärntner_Straße_passing_garage"
       },
       "geometry": {
         "type": "Point",
@@ -286,7 +286,7 @@
         "radius": 47,
         "event": "EntranceExit",
         "id": 17,
-        "name": "0000_011_Sterngasse_MarcAurelStraÃÂe"
+        "name": "0000_011_Sterngasse_MarcAurelStraße"
       },
       "geometry": {
         "type": "Point",
@@ -305,7 +305,7 @@
         "radius": 57.4,
         "event": "EntranceExit",
         "id": 18,
-        "name": "0000_012_Tuchlauben_BrandstÃ¤tte"
+        "name": "0000_012_Tuchlauben_Brandstätte"
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@
         "radius": 48.2,
         "event": "EntranceExit",
         "id": 19,
-        "name": "0000_013_RotenturmstraÃe"
+        "name": "0000_013_Rotenturmstraße"
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +815,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 45,
-        "name": "A23_015-00-AS_LandstraÃÂe"
+        "name": "A23_015-00-AS_Landstraße"
       },
       "geometry": {
         "type": "Point",
@@ -834,7 +834,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 46,
-        "name": "A23_015-02-AS_LandstraÃÂe"
+        "name": "A23_015-02-AS_Landstraße"
       },
       "geometry": {
         "type": "Point",
@@ -1231,7 +1231,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 70,
-        "name": "A02_003-00-KN_VÃÂ¶sendorf_01"
+        "name": "A02_003-00-KN_Vösendorf_01"
       },
       "geometry": {
         "type": "Point",
@@ -1282,7 +1282,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 73,
-        "name": "A02_004-00-KN_VÃÂ¶sendorf_02"
+        "name": "A02_004-00-KN_Vösendorf_02"
       },
       "geometry": {
         "type": "Point",
@@ -1298,7 +1298,7 @@
         "radius": 60,
         "event": "EntranceExit",
         "id": 74,
-        "name": "A02_003-00-KN_VÃÂ¶sendorf_01"
+        "name": "A02_003-00-KN_Vösendorf_01"
       },
       "geometry": {
         "type": "Point",
@@ -1561,7 +1561,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 88,
-        "name": "0012_013-00-BreitenfurterstraÃÂe"
+        "name": "0012_013-00-Breitenfurterstraße"
       },
       "geometry": {
         "type": "Point",
@@ -1580,7 +1580,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 89,
-        "name": "0012_014-00-BreitenfurterstraÃÂe"
+        "name": "0012_014-00-Breitenfurterstraße"
       },
       "geometry": {
         "type": "Point",
@@ -1637,7 +1637,7 @@
         "radius": 250,
         "event": "EntranceExit",
         "id": 92,
-        "name": "0225-005-01-WienerbergstraÃÂe_SÃÂ¼dbahn"
+        "name": "0225-005-01-Wienerbergstraße_Südbahn"
       },
       "geometry": {
         "type": "Point",
@@ -1786,7 +1786,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 95,
-        "name": "A02_004-00-KN_VÃÂ¶sendorf_02",
+        "name": "A02_004-00-KN_Vösendorf_02",
         "bothdirections": 0
       },
       "geometry": {
@@ -1827,7 +1827,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 96,
-        "name": "A02_003-00-KN_VÃÂ¶sendorf_01",
+        "name": "A02_003-00-KN_Vösendorf_01",
         "bothdirections": 0
       },
       "geometry": {
@@ -2442,7 +2442,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 111,
-        "name": "0012_013-00-BreitenfurterstraÃÂe",
+        "name": "0012_013-00-Breitenfurterstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -2483,7 +2483,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 112,
-        "name": "0012_014-00-BreitenfurterstraÃÂe",
+        "name": "0012_014-00-Breitenfurterstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -2565,7 +2565,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 114,
-        "name": "0000_005_Wienerbergbruecke-EdelsinnstraÃÂe",
+        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -2606,7 +2606,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 115,
-        "name": "0225-005-01-WienerbergstraÃÂe_SÃÂ¼dbahn",
+        "name": "0225-005-01-Wienerbergstraße_Südbahn",
         "bothdirections": 0
       },
       "geometry": {
@@ -2729,7 +2729,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 118,
-        "name": "Zone 3 Cemetery Unter-Meidlinger-StraÃÂe",
+        "name": "Zone 3 Cemetery Unter-Meidlinger-Straße",
         "bothdirections": 0
       },
       "geometry": {
@@ -2853,7 +2853,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 121,
-        "name": "0225-003-00-WienerbergstraÃÂe_Eibesbrunnergasse",
+        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse",
         "bothdirections": 0
       },
       "geometry": {
@@ -3468,7 +3468,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 136,
-        "name": "A23_015-02-AS_LandstraÃÂe",
+        "name": "A23_015-02-AS_Landstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -3509,7 +3509,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 137,
-        "name": "A23_015-00-AS_LandstraÃÂe",
+        "name": "A23_015-00-AS_Landstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -4493,7 +4493,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 161,
-        "name": "0000_006_MargaretengÃ¼rtel-EichenstraÃÂe",
+        "name": "0000_006_Margaretengürtel-Eichenstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -4534,7 +4534,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 162,
-        "name": "0000_007_Wiedner_GÃ¼rtel_FavoritenstraÃÂe",
+        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -4575,7 +4575,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 163,
-        "name": "0000_008_FavoritenstraÃÂe",
+        "name": "0000_008_Favoritenstraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -4616,7 +4616,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 164,
-        "name": "0000_001_KÃ¤rntner_StraÃe_entering_garage / 0000_001_KÃ¤rntner_StraÃe_passing_garage",
+        "name": "0000_001_Kärntner_Straße_entering_garage / 0000_001_Kärntner_Straße_passing_garage",
         "bothdirections": 0
       },
       "geometry": {
@@ -4739,7 +4739,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 167,
-        "name": "0000_012_Tuchlauben_BrandstÃ¤tte",
+        "name": "0000_012_Tuchlauben_Brandstätte",
         "bothdirections": 0
       },
       "geometry": {
@@ -4780,7 +4780,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 168,
-        "name": "0000_011_Sterngasse_MarcAurelStraÃÂe",
+        "name": "0000_011_Sterngasse_MarcAurelStraße",
         "bothdirections": 0
       },
       "geometry": {
@@ -4862,7 +4862,7 @@
         "fill-opacity": 0.5,
         "event": "EntranceExit",
         "id": 170,
-        "name": "0000_013_RotenturmstraÃe",
+        "name": "0000_013_Rotenturmstraße",
         "bothdirections": 0
       },
       "geometry": {
