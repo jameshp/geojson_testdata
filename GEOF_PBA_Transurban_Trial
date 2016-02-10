@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 5,
+        "name": "Racecourse -> Dynon",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9361091852188,
+            -37.79520748137744
+          ],
+          [
+            144.93609845638272,
+            -37.795351607127934
+          ],
+          [
+            144.93608236312866,
+            -37.79550844953692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 7,
+        "name": "Dynon -> Racecourse",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9359267950058,
+            -37.79632868752191
+          ],
+          [
+            144.9359107017517,
+            -37.79616972738354
+          ],
+          [
+            144.9358972907066,
+            -37.79602348375416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 9,
+        "name": "Footscray -> Westgate",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9337837100029,
+            -37.81531242612146
+          ],
+          [
+            144.93375957012174,
+            -37.81544379913595
+          ],
+          [
+            144.93372201919553,
+            -37.81557305300268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 11,
+        "name": "Westgate -> Footscray",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9334242939949,
+            -37.81591419736735
+          ],
+          [
+            144.93346452713013,
+            -37.81579765754428
+          ],
+          [
+            144.93350744247437,
+            -37.81566628515951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 33,
+        "name": "Exhibition St.-> Swan St.",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9761787056923,
+            -37.8192598712839
+          ],
+          [
+            144.97620552778244,
+            -37.8193658116163
+          ],
+          [
+            144.9762323498726,
+            -37.819465395390125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 31,
+        "name": "Swan St. -> Exhibition St.",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.97611969709396,
+            -37.819738720376776
+          ],
+          [
+            144.97610360383985,
+            -37.819607355005644
+          ],
+          [
+            144.9760901927948,
+            -37.81947810820264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 15,
+        "name": "Swan St -> Punt Rd",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.98379349708557,
+            -37.826179574381285
+          ],
+          [
+            144.98393565416336,
+            -37.82618381160021
+          ],
+          [
+            144.9840670824051,
+            -37.82620287908238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 17,
+        "name": " Punt Rd/Swan St",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.98386055231094,
+            -37.82659058348461
+          ],
+          [
+            144.98371839523315,
+            -37.82657999049521
+          ],
+          [
+            144.98358696699142,
+            -37.82657151610261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 13,
+        "name": "Punt Rd -> Swan St Tunnel",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.98458206653595,
+            -37.82651643252696
+          ],
+          [
+            144.98445332050323,
+            -37.826478297719724
+          ],
+          [
+            144.9843406677246,
+            -37.826446518698646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 19,
+        "name": "Punt Rd Exit",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.98601973056793,
+            -37.82646558611294
+          ],
+          [
+            144.9861404299736,
+            -37.82652278832625
+          ],
+          [
+            144.9862289428711,
+            -37.826603295069866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 21,
+        "name": "Church St->Burnley St",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": "false"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.00113397836685,
+            -37.832679182144986
+          ],
+          [
+            145.00124394893646,
+            -37.83261562943021
+          ],
+          [
+            145.00140756368637,
+            -37.832533010819155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 23,
+        "name": "Kings Way->Burnley St",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": "false"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.00466108322144,
+            -37.830026868984476
+          ],
+          [
+            145.0048005580902,
+            -37.83003746147905
+          ],
+          [
+            145.00493466854095,
+            -37.83005229096891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 25,
+        "name": "Kings Way -> Gibdon St",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": "false"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.00496417284012,
+            -37.830257785021544
+          ],
+          [
+            145.0051599740982,
+            -37.830302273349325
+          ],
+          [
+            145.00535309314728,
+            -37.83034888014014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 27,
+        "name": "Yarra Boulevard ->Monash Fwy",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": "false"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.02262383699417,
+            -37.831965270169135
+          ],
+          [
+            145.02274721860886,
+            -37.83206060006109
+          ],
+          [
+            145.02285987138748,
+            -37.83216016670563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "id": 29,
+        "name": "Monash Fwy -> Yarra Boulevard",
+        "type": 0,
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": "false"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.022956430912,
+            -37.832539366100214
+          ],
+          [
+            145.02285450696945,
+            -37.832437681537606
+          ],
+          [
+            145.0227391719818,
+            -37.83234023370025
+          ]
+        ]
+      }
+    }
+  ]
+}
