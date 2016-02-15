@@ -1,0 +1,3715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 1,
+        "name": "Zone 1",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.129321813583374,
+            48.881319124851615
+          ],
+          [
+            15.1292359828949,
+            48.881163903459466
+          ],
+          [
+            15.129117965698242,
+            48.88096634826368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 2,
+        "name": "Zone 2",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.128098726272583,
+            48.87748783788507
+          ],
+          [
+            15.128098726272583,
+            48.87735377280617
+          ],
+          [
+            15.128098726272583,
+            48.87718442692972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 3,
+        "name": "Zone 3",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.127315521240233,
+            48.87364214427213
+          ],
+          [
+            15.127154588699339,
+            48.87344455936801
+          ],
+          [
+            15.127004384994505,
+            48.87325403032858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 4,
+        "name": "Zone 4",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.125824213027954,
+            48.87121461849421
+          ],
+          [
+            15.125706195831299,
+            48.871059365745346
+          ],
+          [
+            15.125588178634642,
+            48.87089705553826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 5,
+        "name": "Zone 5",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.12411832809448,
+            48.867894221731895
+          ],
+          [
+            15.124048590660093,
+            48.86773542996875
+          ],
+          [
+            15.123984217643738,
+            48.8675907525903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 6,
+        "name": "Zone 6",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.123072266578674,
+            48.865674620049575
+          ],
+          [
+            15.1228791475296,
+            48.865653446904446
+          ],
+          [
+            15.12266457080841,
+            48.86564286032855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 7,
+        "name": "Zone 7",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.123351216316223,
+            48.86390310259597
+          ],
+          [
+            15.1234370470047,
+            48.86379017505446
+          ],
+          [
+            15.123512148857117,
+            48.863659602266935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 8,
+        "name": "Zone 8",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.127803683280943,
+            48.864577133559756
+          ],
+          [
+            15.127986073493956,
+            48.86461948075176
+          ],
+          [
+            15.128211379051208,
+            48.86467947254579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 9,
+        "name": "Zone 9",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.133098363876345,
+            48.86303849461331
+          ],
+          [
+            15.13314664363861,
+            48.86294321037084
+          ],
+          [
+            15.133200287818909,
+            48.86284439689074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 10,
+        "name": "Zone 10",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.140608549118042,
+            48.85934345055576
+          ],
+          [
+            15.14091968536377,
+            48.85929404028656
+          ],
+          [
+            15.141327381134033,
+            48.85920933685439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 11,
+        "name": "Zone 11",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.155425071716309,
+            48.855312824025894
+          ],
+          [
+            15.155586004257202,
+            48.85515752193968
+          ],
+          [
+            15.155800580978394,
+            48.85498104171146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 12,
+        "name": "Zone 12",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.16581058502197,
+            48.85027231949455
+          ],
+          [
+            15.166218280792235,
+            48.85022996016343
+          ],
+          [
+            15.166497230529785,
+            48.850187600796545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 13,
+        "name": "Zone 13",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.179130434989927,
+            48.847660093710566
+          ],
+          [
+            15.179280638694761,
+            48.84757537059276
+          ],
+          [
+            15.179446935653685,
+            48.84750123774705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 14,
+        "name": "Zone 14",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.18881320953369,
+            48.84326136237997
+          ],
+          [
+            15.189242362976072,
+            48.8431836927055
+          ],
+          [
+            15.1896071434021,
+            48.84319781447345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 15,
+        "name": "Zone 15",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.20228862762451,
+            48.843579100703124
+          ],
+          [
+            15.20280361175537,
+            48.84348024899637
+          ],
+          [
+            15.20331859588623,
+            48.84336727537835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 16,
+        "name": "Zone 16",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.211097002029417,
+            48.8411254024414
+          ],
+          [
+            15.21130084991455,
+            48.841047729454424
+          ],
+          [
+            15.21151542663574,
+            48.84095946455031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 17,
+        "name": "Zone 17",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.221128463745115,
+            48.837732392857895
+          ],
+          [
+            15.221471786499025,
+            48.83771120789294
+          ],
+          [
+            15.22182583808899,
+            48.83768296125905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 18,
+        "name": "Zone 18",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.231642723083494,
+            48.836348289651205
+          ],
+          [
+            15.231921672821045,
+            48.83623529994596
+          ],
+          [
+            15.23228645324707,
+            48.83612230998584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 19,
+        "name": "Zone 19",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.247156620025635,
+            48.830444236326244
+          ],
+          [
+            15.247521400451658,
+            48.830302982509664
+          ],
+          [
+            15.247886180877686,
+            48.830161728294826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 20,
+        "name": "Zone 20",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.260932445526125,
+            48.82589566339821
+          ],
+          [
+            15.261318683624266,
+            48.825789713456075
+          ],
+          [
+            15.261780023574829,
+            48.825662573229806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-opacity": 1,
+        "type": 0,
+        "id": 21,
+        "name": "Zone 21",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 6,
+        "required": "false",
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.27842581272125,
+            48.82361062663404
+          ],
+          [
+            15.278769135475157,
+            48.82360003116679
+          ],
+          [
+            15.278812050819397,
+            48.823508203690274
+          ],
+          [
+            15.278919339179991,
+            48.82345169439032
+          ],
+          [
+            15.279080271720884,
+            48.82345169439032
+          ],
+          [
+            15.279166102409361,
+            48.82351173551941
+          ],
+          [
+            15.279209017753601,
+            48.82356471292651
+          ],
+          [
+            15.279407501220701,
+            48.82355411744956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 22,
+        "name": "Zone 22",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.29028117656708,
+            48.821770513572375
+          ],
+          [
+            15.290501117706297,
+            48.8217316620885
+          ],
+          [
+            15.29067814350128,
+            48.821692810574504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 23,
+        "name": "Zone 23",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.301659107208252,
+            48.818188986579564
+          ],
+          [
+            15.301852226257322,
+            48.81799118276005
+          ],
+          [
+            15.302066802978516,
+            48.817821636007814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 24,
+        "name": "Zone 24",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.305274724960327,
+            48.81072135095435
+          ],
+          [
+            15.305328369140627,
+            48.810537648643496
+          ],
+          [
+            15.30539274215698,
+            48.810375142192065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 25,
+        "name": "Zone 25",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.306830406188965,
+            48.80082166359208
+          ],
+          [
+            15.306851863861084,
+            48.80056725615014
+          ],
+          [
+            15.306862592697142,
+            48.80037644972186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 26,
+        "name": "Zone 26",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.313804149627686,
+            48.78433198003988
+          ],
+          [
+            15.313954353332518,
+            48.784063350539036
+          ],
+          [
+            15.314104557037352,
+            48.78380885810662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 27,
+        "name": "Zone 27",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.32468318939209,
+            48.768593521682625
+          ],
+          [
+            15.324854850769043,
+            48.76835309367357
+          ],
+          [
+            15.325090885162354,
+            48.76814095035665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 28,
+        "name": "Zone 28",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.331002473831177,
+            48.75859357346676
+          ],
+          [
+            15.331141948699953,
+            48.758423825902334
+          ],
+          [
+            15.331292152404783,
+            48.75824700491275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 29,
+        "name": "Zone 29",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.341302156448364,
+            48.751951772184455
+          ],
+          [
+            15.341559648513792,
+            48.7518173709756
+          ],
+          [
+            15.341838598251343,
+            48.75165467429438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 30,
+        "name": "Zone 30",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.355818271636963,
+            48.74430447910931
+          ],
+          [
+            15.356022119522093,
+            48.7441983567728
+          ],
+          [
+            15.356247425079346,
+            48.74405685997555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 31,
+        "name": "Zone 31",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.362931489944456,
+            48.7391042210934
+          ],
+          [
+            15.363070964813232,
+            48.73897686108629
+          ],
+          [
+            15.363242626190186,
+            48.738856576338826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 32,
+        "name": "Zone 32",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.36934733390808,
+            48.735106378076615
+          ],
+          [
+            15.369572639465332,
+            48.73504976916706
+          ],
+          [
+            15.369830131530762,
+            48.73497900794046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 33,
+        "name": "Zone 33",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.395042896270752,
+            48.72732205481914
+          ],
+          [
+            15.395343303680418,
+            48.72720881940671
+          ],
+          [
+            15.39560079574585,
+            48.7270955837393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 34,
+        "name": "Zone 34",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.413174629211424,
+            48.72149009950603
+          ],
+          [
+            15.413582324981688,
+            48.72136977291946
+          ],
+          [
+            15.413968563079834,
+            48.72123528992326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 35,
+        "name": "Zone 35",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.436584949493408,
+            48.70735329535421
+          ],
+          [
+            15.436853170394896,
+            48.707310815245094
+          ],
+          [
+            15.437110662460329,
+            48.70726125507248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 36,
+        "name": "Zone 36",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.473631620407104,
+            48.70179517650844
+          ],
+          [
+            15.473867654800415,
+            48.70184120166887
+          ],
+          [
+            15.474082231521605,
+            48.70188014600252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 37,
+        "name": "Zone 37",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.508875846862791,
+            48.69461473608213
+          ],
+          [
+            15.509347915649412,
+            48.69460765427437
+          ],
+          [
+            15.509819984436035,
+            48.69462181788887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 38,
+        "name": "Zone 38",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.526637434959413,
+            48.69156592575293
+          ],
+          [
+            15.526857376098631,
+            48.6914738565995
+          ],
+          [
+            15.527093410491943,
+            48.69137824614659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 39,
+        "name": "Zone 39",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.539388656616211,
+            48.68553504057269
+          ],
+          [
+            15.5396568775177,
+            48.685393378686385
+          ],
+          [
+            15.539968013763428,
+            48.68525879952529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 40,
+        "name": "Zone 40",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.563249588012695,
+            48.68015160875746
+          ],
+          [
+            15.563614368438719,
+            48.68010910569067
+          ],
+          [
+            15.564129352569582,
+            48.68005951873405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 41,
+        "name": "Zone 41",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.57687520980835,
+            48.67813267347652
+          ],
+          [
+            15.577218532562256,
+            48.678068916307545
+          ],
+          [
+            15.577604770660399,
+            48.67798390662333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 42,
+        "name": "Zone 42",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.597968101501463,
+            48.674349608467615
+          ],
+          [
+            15.598289966583252,
+            48.67430710050525
+          ],
+          [
+            15.598665475845337,
+            48.674236253821654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 43,
+        "name": "Zone 43",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.620219707489014,
+            48.66871699100195
+          ],
+          [
+            15.620466470718384,
+            48.66866030737457
+          ],
+          [
+            15.620723962783813,
+            48.66858945275073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 44,
+        "name": "Zone 44",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.63353419303894,
+            48.66258770451709
+          ],
+          [
+            15.63353419303894,
+            48.662353855704055
+          ],
+          [
+            15.63353419303894,
+            48.66212709218254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 45,
+        "name": "Zone 45",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.637149810791016,
+            48.65564972836827
+          ],
+          [
+            15.637407302856445,
+            48.65557885545216
+          ],
+          [
+            15.637750625610352,
+            48.65550089512937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 46,
+        "name": "Zone 46",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.655227899551392,
+            48.653899138178
+          ],
+          [
+            15.655581951141357,
+            48.65389205064476
+          ],
+          [
+            15.656021833419798,
+            48.65387078803912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 47,
+        "name": "Zone 47",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.664819478988646,
+            48.653686511747864
+          ],
+          [
+            15.665087699890137,
+            48.65369359930998
+          ],
+          [
+            15.665441751480103,
+            48.65369359930998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 48,
+        "name": "Zone 48",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.675837993621824,
+            48.65394166335642
+          ],
+          [
+            15.676036477088928,
+            48.65393103206518
+          ],
+          [
+            15.676277875900269,
+            48.65391331324146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 49,
+        "name": "Zone 49",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.688068866729735,
+            48.64605262895745
+          ],
+          [
+            15.688181519508364,
+            48.64591440037184
+          ],
+          [
+            15.688320994377134,
+            48.645779715744524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 50,
+        "name": "Zone 50",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.696678757667542,
+            48.63903793614262
+          ],
+          [
+            15.696839690208435,
+            48.638984763952344
+          ],
+          [
+            15.697032809257506,
+            48.63895286061126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 51,
+        "name": "Zone 51",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.708260536193848,
+            48.63492224289624
+          ],
+          [
+            15.708367824554443,
+            48.634766258253805
+          ],
+          [
+            15.708507299423218,
+            48.6346031828847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 52,
+        "name": "Zone 52",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.716264247894287,
+            48.623895777087405
+          ],
+          [
+            15.716414451599121,
+            48.62367593237264
+          ],
+          [
+            15.716511011123657,
+            48.623527004763716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 53,
+        "name": "Zone 53",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.726909935474396,
+            48.60408286016034
+          ],
+          [
+            15.726888477802277,
+            48.603981762962675
+          ],
+          [
+            15.7268750667572,
+            48.6038629291558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 54,
+        "name": "Zone 54",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.735916793346405,
+            48.59955279764158
+          ],
+          [
+            15.736099183559418,
+            48.59954925005674
+          ],
+          [
+            15.73631912469864,
+            48.59954747626424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 55,
+        "name": "Zone 55",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.751674771308899,
+            48.59758562362227
+          ],
+          [
+            15.751991271972656,
+            48.59745435770616
+          ],
+          [
+            15.752254128456116,
+            48.59735502111047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 56,
+        "name": "Zone 56",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.769425630569458,
+            48.590624511836694
+          ],
+          [
+            15.769801139831541,
+            48.590532258248516
+          ],
+          [
+            15.770165920257568,
+            48.590418715139535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 57,
+        "name": "Zone 57",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.791248083114622,
+            48.58744521414759
+          ],
+          [
+            15.791634321212769,
+            48.58736714851867
+          ],
+          [
+            15.792009830474852,
+            48.58727488898357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 58,
+        "name": "Zone 58",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.816090703010557,
+            48.582132927859796
+          ],
+          [
+            15.816326737403868,
+            48.582125830243434
+          ],
+          [
+            15.816498398780821,
+            48.58212228143487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 59,
+        "name": "Zone 59",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.83376109600067,
+            48.58218970875484
+          ],
+          [
+            15.83399713039398,
+            48.5821648671211
+          ],
+          [
+            15.83425462245941,
+            48.582132927859796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 60,
+        "name": "Zone 60",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.841700434684753,
+            48.57164866208091
+          ],
+          [
+            15.84153413772583,
+            48.571304355141926
+          ],
+          [
+            15.841362476348877,
+            48.57094584748712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 61,
+        "name": "Zone 61",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.844184160232544,
+            48.563558604233236
+          ],
+          [
+            15.844463109970095,
+            48.563366897828814
+          ],
+          [
+            15.844742059707642,
+            48.563189391250944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 62,
+        "name": "Zone 62",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.865067839622496,
+            48.549995358733604
+          ],
+          [
+            15.865255594253538,
+            48.54991013313083
+          ],
+          [
+            15.865432620048523,
+            48.549828458460155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 63,
+        "name": "Zone 63",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.889116525650024,
+            48.54299927949769
+          ],
+          [
+            15.889406204223631,
+            48.542906938990605
+          ],
+          [
+            15.88972806930542,
+            48.5428074951792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 64,
+        "name": "Zone 64",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.907301902770996,
+            48.531938529779104
+          ],
+          [
+            15.907398462295532,
+            48.53168276131708
+          ],
+          [
+            15.907484292984009,
+            48.5314056773586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 65,
+        "name": "Zone 65",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.929998755455017,
+            48.520011951043635
+          ],
+          [
+            15.930266976356505,
+            48.51993378129982
+          ],
+          [
+            15.930476188659668,
+            48.51986982414696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 66,
+        "name": "Zone 66",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.943028926849363,
+            48.51491289916201
+          ],
+          [
+            15.943179130554197,
+            48.51476365088857
+          ],
+          [
+            15.943313241004944,
+            48.51461084862931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 67,
+        "name": "Zone 67",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.94913363456726,
+            48.50275838574322
+          ],
+          [
+            15.94919800758362,
+            48.50258777533583
+          ],
+          [
+            15.949262380599974,
+            48.50241716435417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 68,
+        "name": "Zone 68",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.960946083068846,
+            48.48920728767749
+          ],
+          [
+            15.96114993095398,
+            48.48908996172831
+          ],
+          [
+            15.96134305000305,
+            48.48896908016344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 69,
+        "name": "Zone 69",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.974260568618773,
+            48.48075912550012
+          ],
+          [
+            15.974432229995726,
+            48.480624000362134
+          ],
+          [
+            15.9746253490448,
+            48.4804959867415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 70,
+        "name": "Zone 70",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.984367132186888,
+            48.46721281808376
+          ],
+          [
+            15.984511971473694,
+            48.46712389626925
+          ],
+          [
+            15.984651446342468,
+            48.467059872466336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 71,
+        "name": "Zone 71",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.994618535041809,
+            48.463243196521624
+          ],
+          [
+            15.994972586631773,
+            48.463122253356616
+          ],
+          [
+            15.99533200263977,
+            48.4629977527387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 72,
+        "name": "Zone 72",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.015915274620056,
+            48.45768662773455
+          ],
+          [
+            16.016162037849426,
+            48.45762614956827
+          ],
+          [
+            16.016419529914856,
+            48.457562113784235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 73,
+        "name": "Zone 73",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.02880597114563,
+            48.45209031348894
+          ],
+          [
+            16.02903127670288,
+            48.451933764361584
+          ],
+          [
+            16.029267311096188,
+            48.451770098848755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 74,
+        "name": "Zone 74",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.033167243003845,
+            48.448493119628914
+          ],
+          [
+            16.03332281112671,
+            48.44835790856039
+          ],
+          [
+            16.033494472503662,
+            48.448215580730896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 75,
+        "name": "Zone 75",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.044137477874756,
+            48.44319826988267
+          ],
+          [
+            16.0443252325058,
+            48.44316446362501
+          ],
+          [
+            16.04451835155487,
+            48.443127098787734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 76,
+        "name": "Zone 76",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.057350039482117,
+            48.43698821661146
+          ],
+          [
+            16.05753779411316,
+            48.436860092906585
+          ],
+          [
+            16.05774164199829,
+            48.436753322905716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 77,
+        "name": "Zone 77",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.076570749282837,
+            48.42469398718692
+          ],
+          [
+            16.076860427856445,
+            48.42450887472824
+          ],
+          [
+            16.077160835266113,
+            48.42432376159533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 78,
+        "name": "Zone 78",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.094788312911984,
+            48.416199478946496
+          ],
+          [
+            16.095142364501953,
+            48.41612827002833
+          ],
+          [
+            16.09550714492798,
+            48.41607130282199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 79,
+        "name": "Zone 79",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.104487180709835,
+            48.41052381537143
+          ],
+          [
+            16.10469102859497,
+            48.41038850323825
+          ],
+          [
+            16.10493779182434,
+            48.4102460690249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 80,
+        "name": "Zone 80",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.11494779586792,
+            48.4073474461141
+          ],
+          [
+            16.115334033966064,
+            48.40727622479836
+          ],
+          [
+            16.11572027206421,
+            48.40719788123585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 81,
+        "name": "Zone 81",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.135616898536682,
+            48.40418512359694
+          ],
+          [
+            16.135831475257874,
+            48.40418512359694
+          ],
+          [
+            16.136115789413452,
+            48.404181562312075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 82,
+        "name": "Zone 82",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.1556476354599,
+            48.39715466172736
+          ],
+          [
+            16.156007051467896,
+            48.39704780830652
+          ],
+          [
+            16.15638256072998,
+            48.39693383107691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 83,
+        "name": "Zone 83",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.175933182239532,
+            48.39015528858396
+          ],
+          [
+            16.176051199436184,
+            48.39004663932571
+          ],
+          [
+            16.176163852214813,
+            48.38994333325844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 84,
+        "name": "Zone 84",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.181131303310394,
+            48.384553315471514
+          ],
+          [
+            16.18127077817917,
+            48.384467811581324
+          ],
+          [
+            16.181423664093018,
+            48.384375182204835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 85,
+        "name": "Zone 85",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.196776628494263,
+            48.38099231313817
+          ],
+          [
+            16.197152137756348,
+            48.3809744985933
+          ],
+          [
+            16.1975759267807,
+            48.380963809863374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 86,
+        "name": "Zone 86",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.215133666992188,
+            48.38056832527856
+          ],
+          [
+            16.215643286705017,
+            48.38044005934793
+          ],
+          [
+            16.21602952480316,
+            48.38034029673401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 87,
+        "name": "Zone 87",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.231677532196045,
+            48.37644227583599
+          ],
+          [
+            16.23206377029419,
+            48.37643871260906
+          ],
+          [
+            16.232498288154602,
+            48.37643871260906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 88,
+        "name": "Zone 88",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.24624729156494,
+            48.37661331043571
+          ],
+          [
+            16.246676445007324,
+            48.37661331043571
+          ],
+          [
+            16.24703049659729,
+            48.376577678274835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 89,
+        "name": "Zone 89",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.273123025894165,
+            48.372943066861495
+          ],
+          [
+            16.27350926399231,
+            48.37287892433031
+          ],
+          [
+            16.273916959762573,
+            48.372836162597956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 90,
+        "name": "Zone 90",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.291640996932983,
+            48.36961467550622
+          ],
+          [
+            16.29199504852295,
+            48.36950063683005
+          ],
+          [
+            16.292359828948975,
+            48.36937947045681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 91,
+        "name": "Zone 91",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.304086446762085,
+            48.362415483320014
+          ],
+          [
+            16.304301023483276,
+            48.362237272587365
+          ],
+          [
+            16.304547786712646,
+            48.362073318162636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 92,
+        "name": "Zone 92",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.316285133361816,
+            48.35269852450927
+          ],
+          [
+            16.316542625427246,
+            48.35237055373083
+          ],
+          [
+            16.316800117492676,
+            48.351999801613225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 93,
+        "name": "Zone 93",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.32198214530945,
+            48.34344323408094
+          ],
+          [
+            16.322078704833984,
+            48.34328991581222
+          ],
+          [
+            16.32217526435852,
+            48.3431472937529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 94,
+        "name": "Zone 94",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.326987147331238,
+            48.33755619458952
+          ],
+          [
+            16.327137351036072,
+            48.337402858613636
+          ],
+          [
+            16.327292919158936,
+            48.33726735201856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 95,
+        "name": "Zone 95",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.33290946483612,
+            48.33264921461224
+          ],
+          [
+            16.33308380842209,
+            48.332508345932
+          ],
+          [
+            16.333252787590027,
+            48.332376392638025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 96,
+        "name": "Zone 96",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.339480876922607,
+            48.32645775797059
+          ],
+          [
+            16.339620351791382,
+            48.326307955351375
+          ],
+          [
+            16.339733004570007,
+            48.326147452056844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 97,
+        "name": "Zone 97",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.345070600509644,
+            48.31648065582307
+          ],
+          [
+            16.34515643119812,
+            48.31622380083029
+          ],
+          [
+            16.345210075378418,
+            48.31594553979549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 98,
+        "name": "Zone 98",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.345317363739014,
+            48.30557031460552
+          ],
+          [
+            16.34539246559143,
+            48.30532054109356
+          ],
+          [
+            16.345489025115967,
+            48.30504935703944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 99,
+        "name": "Zone 99",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.348589658737183,
+            48.300367636755645
+          ],
+          [
+            16.348739862442017,
+            48.300196346163844
+          ],
+          [
+            16.348954439163208,
+            48.29999650641365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 100,
+        "name": "Zone 100",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.358452141284943,
+            48.28883992536209
+          ],
+          [
+            16.35854870080948,
+            48.28873105995551
+          ],
+          [
+            16.35864526033401,
+            48.28860970152377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 101,
+        "name": "Zone 101",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.36990785598755,
+            48.27542810247898
+          ],
+          [
+            16.370052695274353,
+            48.27522459548176
+          ],
+          [
+            16.370267271995544,
+            48.27501037671425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 102,
+        "name": "Zone 102",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.377482414245605,
+            48.26603737407288
+          ],
+          [
+            16.37757897377014,
+            48.26591953267779
+          ],
+          [
+            16.377686262130737,
+            48.26579097811875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 103,
+        "name": "Zone 103",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.38883888721466,
+            48.25274815208446
+          ],
+          [
+            16.389032006263733,
+            48.25253026720561
+          ],
+          [
+            16.389257311820984,
+            48.25229809377197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 104,
+        "name": "Zone 104",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.399361193180084,
+            48.24250834543294
+          ],
+          [
+            16.3995623588562,
+            48.242329715576865
+          ],
+          [
+            16.399768888950348,
+            48.24216001663582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 105,
+        "name": "Zone 105",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.405058205127716,
+            48.23756721361298
+          ],
+          [
+            16.405243277549744,
+            48.23738856650244
+          ],
+          [
+            16.40543907880783,
+            48.23720098636502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 106,
+        "name": "Zone 106",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.437644362449646,
+            48.21307244927158
+          ],
+          [
+            16.4377623796463,
+            48.21300095629573
+          ],
+          [
+            16.43788307905197,
+            48.21292767589189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 107,
+        "name": "Zone 107",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.440187096595764,
+            48.209395793567076
+          ],
+          [
+            16.44001007080078,
+            48.20927782163353
+          ],
+          [
+            16.4398330450058,
+            48.20914912466881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 108,
+        "name": "Zone 108",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.435697078704834,
+            48.206315922060654
+          ],
+          [
+            16.435455679893494,
+            48.20614431611156
+          ],
+          [
+            16.435208916664124,
+            48.205974497158444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 109,
+        "name": "Zone 109",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.428970098495483,
+            48.201737778929164
+          ],
+          [
+            16.428680419921875,
+            48.20155364356653
+          ],
+          [
+            16.428441703319546,
+            48.20139989897031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 110,
+        "name": "Zone 110",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.420403122901917,
+            48.19585227071972
+          ],
+          [
+            16.420226097106934,
+            48.195730691733665
+          ],
+          [
+            16.420089304447174,
+            48.195621627985986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 111,
+        "name": "Zone 111",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.412968039512634,
+            48.190785043143364
+          ],
+          [
+            16.412689089775085,
+            48.19059192787546
+          ],
+          [
+            16.412415504455566,
+            48.19040238810857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 112,
+        "name": "Zone 112",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.404481530189514,
+            48.18410426251258
+          ],
+          [
+            16.404406428337097,
+            48.18397013728221
+          ],
+          [
+            16.40432596206665,
+            48.18378951475074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 113,
+        "name": "Zone 113",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.399020552635193,
+            48.18285956689088
+          ],
+          [
+            16.398929357528687,
+            48.182981176416064
+          ],
+          [
+            16.39882206916809,
+            48.18312961118077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 114,
+        "name": "Zone 114",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.393031179904938,
+            48.1878471090477
+          ],
+          [
+            16.39284342527389,
+            48.18790075512388
+          ],
+          [
+            16.392634212970734,
+            48.18795797754322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 115,
+        "name": "Zone 115",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.38613522052765,
+            48.188421119148586
+          ],
+          [
+            16.38584017753601,
+            48.18843542461418
+          ],
+          [
+            16.385502219200134,
+            48.18844615371073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 116,
+        "name": "Zone 116",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.38013243675232,
+            48.188145738157964
+          ],
+          [
+            16.379917860031128,
+            48.18809566872796
+          ],
+          [
+            16.379703283309937,
+            48.18804559924903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 117,
+        "name": "Zone 117",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.37047380208969,
+            48.1850824719117
+          ],
+          [
+            16.37029141187668,
+            48.18501988137572
+          ],
+          [
+            16.370111703872677,
+            48.184953714154624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 118,
+        "name": "Zone 118",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.36526495218277,
+            48.18324943170142
+          ],
+          [
+            16.365053057670593,
+            48.18318147382857
+          ],
+          [
+            16.364835798740387,
+            48.183109939128244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": 0,
+        "id": 119,
+        "name": "Zone 119",
+        "confidence": 0.5,
+        "bothdirections": 0,
+        "triggerIndex": 1,
+        "required": false,
+        "stroke-width": 4,
+        "stroke": "#008000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.35766088962555,
+            48.18217640213667
+          ],
+          [
+            16.357510685920715,
+            48.18233556960762
+          ],
+          [
+            16.357349753379822,
+            48.18247864106981
+          ]
+        ]
+      }
+    }
+  ]
+}
