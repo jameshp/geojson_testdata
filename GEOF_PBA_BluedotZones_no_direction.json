@@ -1,0 +1,6389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "0000_001_Kärntner_Straße_entering_garage",
+        "description": "0000_001_Kärntner_Straße_entering_garage",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3698059320449,
+          48.2028568786447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "0000_001_Kärntner_Straße_passing_garage",
+        "description": "0000_001_Kärntner_Straße_passing_garage",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3698488473892,
+          48.2028461525654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "0000_001_Kärtner_Straße_Oper_Parkgarage",
+        "description": "0000_001_Kärtner_Straße_Oper_Parkgarage",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3699749112129,
+          48.2029820160707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "0000_001_UNO_City_West",
+        "description": "0000_001_UNO_City_West",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4084780216217,
+          48.2345640727907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "0000_002_UNO_City_North",
+        "description": "0000_002_UNO_City_North",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4152586460113,
+          48.2372224241298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "0000_003_UNO_City_East",
+        "description": "0000_003_UNO_City_East",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4196467399597,
+          48.2353001355102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "0000_005_Wienerbergbruecke-Edelsinnstraße",
+        "description": "0000_005_Wienerbergbruecke-Edelsinnstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3263058662414,
+          48.1732765446636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "0000_006_Margaretengürtel-Eichenstraße",
+        "description": "0000_006_Margaretengürtel-Eichenstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3493943214416,
+          48.1803808157575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "0000_007_Wiedner_Gürtel_Favoritenstraße",
+        "description": "0000_007_Wiedner_Gürtel_Favoritenstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3736844062805,
+          48.1861214636433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "0000_008_Favoritenstraße",
+        "description": "0000_008_Favoritenstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3686418533325,
+          48.1961955510054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "0000_009_Dorotheergasse",
+        "description": "0000_009_Dorotheergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3696128129959,
+          48.2065286411369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "0000_01_UNO_City_West",
+        "description": "0000_01_UNO_City_West",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4084780216217,
+          48.2345640727907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "0000_010_Josefsplatz",
+        "description": "0000_010_Josefsplatz",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3675475120544,
+          48.2063713363589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "0000_011_Sterngasse_MarcAurelStraße",
+        "description": "0000_011_Sterngasse_MarcAurelStraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3728475570678,
+          48.21197680846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "0000_012_Tuchlauben_Brandstätte",
+        "description": "0000_012_Tuchlauben_Brandstätte",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3705086708068,
+          48.2102895115083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "0000_014_Bauernmarkt",
+        "description": "0000_014_Bauernmarkt",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3748431205749,
+          48.2112046625173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "0000_014_Bauernmarkt_2",
+        "description": "0000_014_Bauernmarkt_2",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3748431205749,
+          48.2112046625173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "0000_015-00-Gutheil_Schoder_Gasse_Eibesbrunnergasse",
+        "description": "0000_015-00-Gutheil_Schoder_Gasse_Eibesbrunnergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3338350036048,
+          48.1654307855792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "0000_016-00-Gutheil_Schoder_Gasse_Bosai",
+        "description": "0000_016-00-Gutheil_Schoder_Gasse_Bosai",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3382353718,
+          48.1618575693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "0000_017-00-Gutheil_Schoder_Gasse_Computerstraße",
+        "description": "0000_017-00-Gutheil_Schoder_Gasse_Computerstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3367345274524,
+          48.1600909372139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "0000_02_UNO_City_North",
+        "description": "0000_02_UNO_City_North",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4152586460113,
+          48.2372224241298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "0000_03_UNO_City_East",
+        "description": "0000_03_UNO_City_East",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4196467399597,
+          48.2353001355102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "0000_099_Zanaschkagasse",
+        "description": "0000_099_Zanaschkagasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3253831863403,
+          48.1574941009439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "0012_013-00-Breitenfurterstraße",
+        "description": "0012_013-00-Breitenfurterstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3203523377,
+          48.1687958349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "0012_014-00-Breitenfurterstraße",
+        "description": "0012_014-00-Breitenfurterstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3236627026196,
+          48.1712148567443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "0017_001-00-Guntramsdorf",
+        "description": "0017_001-00-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3070337054999,
+          48.0484198778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "0017_001-01-Guntramsdorf",
+        "description": "0017_001-01-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3134568117,
+          48.0475753524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "0017_001-02-Guntramsdorf",
+        "description": "0017_001-02-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3192637332999,
+          48.0459782538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "0017_001-03-Guntramsdorf",
+        "description": "0017_001-03-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3240354532999,
+          48.0434452622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "0017_001-04-Guntramsdorf",
+        "description": "0017_001-04-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.329122651,
+          48.041226331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "name": "0017_001-05-Guntramsdorf",
+        "description": "0017_001-05-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3347094728999,
+          48.039672802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "name": "0017_002-01-Guntramsdorf",
+        "description": "0017_002-01-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3192637332999,
+          48.0459782538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "name": "0017_017-01-Computerstraße",
+        "description": "0017_017-01-Computerstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3390524453573,
+          48.1585161439107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "name": "0017_018-00-Triesterstraße_Computerstraße",
+        "description": "0017_018-00-Triesterstraße_Computerstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3419274565,
+          48.1575266067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "name": "0017_020-00-Triesterstraße",
+        "description": "0017_020-00-Triesterstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3451205589999,
+          48.1619795111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "name": "0017_021-00-Triesterstraße",
+        "description": "0017_021-00-Triesterstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3473510347,
+          48.1655880119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "name": "0017_022-00-Wienerberg_Tower",
+        "description": "0017_022-00-Wienerberg_Tower",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3445825320687,
+          48.1674583928597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "name": "0017_023-00-Clemens_Holzmeister_Straße",
+        "description": "0017_023-00-Clemens_Holzmeister_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3462229479999,
+          48.1663201266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "name": "0017_024-00-Clemens_Holzmeister_Straße",
+        "description": "0017_024-00-Clemens_Holzmeister_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3469523705,
+          48.1674815345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "name": "0017_025-00-Wienerbergstraße_Clemens_Holzmeister_Straße",
+        "description": "0017_025-00-Wienerbergstraße_Clemens_Holzmeister_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.349402536804,
+          48.1686621825943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "name": "0224-001-00-AltmannsdorBreitenfurter_Strasse",
+        "description": "0224-001-00-AltmannsdorBreitenfurter_Strasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3166571124315,
+          48.1656137979274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "name": "0224-001-00-Altmannsdorf_Breitenfurter_Strasse",
+        "description": "0224-001-00-Altmannsdorf_Breitenfurter_Strasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3166571124315,
+          48.1656137979274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "name": "0225-001-00-Am_Europlatz",
+        "description": "0225-001-00-Am_Europlatz",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3334776827999,
+          48.1712157453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "name": "0225-001-00-Kranichberggasse",
+        "description": "0225-001-00-Kranichberggasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3328568524,
+          48.1684192836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "name": "0225-001-00-Liebenstraße",
+        "description": "0225-001-00-Liebenstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3337576964443,
+          48.168335860709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "name": "0225-001-00-Wienerbergstraße_Eibesbrunnergasse",
+        "description": "0225-001-00-Wienerbergstraße_Eibesbrunnergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3374857640884,
+          48.171030704999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "name": "0225-001-01-Am_Europlatz",
+        "description": "0225-001-01-Am_Europlatz",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333516054336,
+          48.1701598812472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "name": "0225-001-01-Eibesbrunnergasse",
+        "description": "0225-001-01-Eibesbrunnergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3364773383,
+          48.1695056169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "name": "0225-001-01-Kranichberggasse",
+        "description": "0225-001-01-Kranichberggasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3331739683,
+          48.1690938289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "name": "0225-001-02-Am_Europlatz",
+        "description": "0225-001-02-Am_Europlatz",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332656125672,
+          48.1702898241719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "name": "0225-001-02-Eibesbrunnergasse",
+        "description": "0225-001-02-Eibesbrunnergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.335501578,
+          48.1680625553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "name": "0225-002-00-Wienerbergstraße",
+        "description": "0225-002-00-Wienerbergstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3431287695327,
+          48.1703276051636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "name": "0225-002-00-Wienerbergstraße-Rotdornallee",
+        "description": "0225-002-00-Wienerbergstraße-Rotdornallee",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3431287695327,
+          48.1703276051636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "name": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse",
+        "description": "0225-003-00-Wienerbergstraße_Eibesbrunnergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3374857640884,
+          48.171030704999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "name": "0225-003-01-Eibesbrunnergasse",
+        "description": "0225-003-01-Eibesbrunnergasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3364773383,
+          48.1695056169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "name": "0225-003-02-Eibesbrunnergasse-Liebenstrasse",
+        "description": "0225-003-02-Eibesbrunnergasse-Liebenstrasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.335501578,
+          48.1680625553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "name": "0225-003-03-Liebenstraße",
+        "description": "0225-003-03-Liebenstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3337576964443,
+          48.168335860709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "name": "0225-003-04-Kranichberggasse",
+        "description": "0225-003-04-Kranichberggasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3328568524,
+          48.1684192836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "name": "0225-003-05-Kranichberggasse",
+        "description": "0225-003-05-Kranichberggasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3331739683,
+          48.1690938289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "name": "0225-003-06-Am_Europlatz-Wagenseilgasse",
+        "description": "0225-003-06-Am_Europlatz-Wagenseilgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333516054336,
+          48.1701598812472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "name": "0225-003-06-Am_Europlatz-Wagenseilgasse",
+        "description": "0225-003-06-Am_Europlatz-Wagenseilgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3335053255,
+          48.1700597072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "name": "0225-003-07-Wagenseilgasse",
+        "description": "0225-003-07-Wagenseilgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.332656125672,
+          48.1702898241719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "name": "0225-003-07-Wagenseilgasse",
+        "description": "0225-003-07-Wagenseilgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3326346679999,
+          48.1701824951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "name": "0225-004-01-Am_Europlatz",
+        "description": "0225-004-01-Am_Europlatz",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3334776827999,
+          48.1712157453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "name": "0225-005-01-Wienerbergstraße_Südbahn",
+        "description": "0225-005-01-Wienerbergstraße_Südbahn",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3305798645999,
+          48.1717160074183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "name": "0225-006-01-Wienerberggasse",
+        "description": "0225-006-01-Wienerberggasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3275330903937,
+          48.172263132579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "name": "0225-006-01-Wienerberggasse-Breitenfurterstrasse",
+        "description": "0225-006-01-Wienerberggasse-Breitenfurterstrasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3275330903937,
+          48.172263132579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "name": "A02_001-00-KN_Inzersdorf",
+        "description": "A02_001-00-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3440795456394,
+          48.150121619038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "name": "A02_001-01-KN_Inzersdorf",
+        "description": "A02_001-01-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3347286774486,
+          48.1428849020756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "name": "A02_001-02-KN_Inzersdorf",
+        "description": "A02_001-02-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33408882,
+          48.1413559061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "name": "A02_001-03-KN_Inzersdorf",
+        "description": "A02_001-03-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3321092526999,
+          48.1373453246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "name": "A02_002-00-Station_002_930_1_2_SKE",
+        "description": "A02_002-00-Station_002_930_1_2_SKE",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3306899630999,
+          48.1339869148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "name": "A02_002-01-Station_002_930_1_2_SKE",
+        "description": "A02_002-01-Station_002_930_1_2_SKE",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3288888953,
+          48.1298371504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "name": "A02_002-02-Station_002_930_1_2_SKE",
+        "description": "A02_002-02-Station_002_930_1_2_SKE",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3272508333,
+          48.1259765256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "name": "A02_003-00-KN_Vösendorf_01",
+        "description": "A02_003-00-KN_Vösendorf_01",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3253726773999,
+          48.1219438436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "name": "A02_004-00-KN_Vösendorf_02",
+        "description": "A02_004-00-KN_Vösendorf_02",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3237311348624,
+          48.1180812863931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "name": "A02_004-01-KN_Vösendorf_02",
+        "description": "A02_004-01-KN_Vösendorf_02",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3220511910999,
+          48.1141932805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "name": "A02_004-02-KN_Vösendorf_02",
+        "description": "A02_004-02-KN_Vösendorf_02",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3212823722999,
+          48.1122864291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "name": "A02_005-00-Station_005_504_0_MAS",
+        "description": "A02_005-00-Station_005_504_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3204812740999,
+          48.1095837923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "name": "A02_005-01-Station_005_504_0_MAS",
+        "description": "A02_005-01-Station_005_504_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3202207754,
+          48.1055619014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "name": "A02_005-02-Station_005_504_0_MAS",
+        "description": "A02_005-02-Station_005_504_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3208364744,
+          48.1017415696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "name": "A02_006-00-AS_Mödling",
+        "description": "A02_006-00-AS_Mödling",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3224793864,
+          48.0977882397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "name": "A02_006-01-AS_Mödling",
+        "description": "A02_006-01-AS_Mödling",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3240966824,
+          48.095249194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "name": "A02_007-00-Station_007_496_1_SKE_100",
+        "description": "A02_007-00-Station_007_496_1_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3255527993999,
+          48.0932806468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "name": "A02_008-00-Station_007_536_2_SKE_100",
+        "description": "A02_008-00-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3263323994,
+          48.0922760902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "name": "A02_008-01-Station_007_536_2_SKE_100",
+        "description": "A02_008-01-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3281502631,
+          48.0899232805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "name": "A02_008-02-Station_007_536_2_SKE_100",
+        "description": "A02_008-02-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3308962759999,
+          48.0863476826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "name": "A02_008-03-Station_007_536_2_SKE_100",
+        "description": "A02_008-03-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3336093161,
+          48.0826952969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "name": "A02_008-04-Station_007_536_2_SKE_100",
+        "description": "A02_008-04-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3357609106999,
+          48.0790154243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "name": "A02_008-05-Station_007_536_2_SKE_100",
+        "description": "A02_008-05-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3373245527,
+          48.0751060304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "name": "A02_008-06-Station_007_536_2_SKE_100",
+        "description": "A02_008-06-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3382643443,
+          48.071143846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "name": "A02_008-07-Station_007_536_2_SKE_100",
+        "description": "A02_008-07-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3389530941999,
+          48.0671141637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "name": "A02_008-08-Station_007_536_2_SKE_100",
+        "description": "A02_008-08-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3396357803999,
+          48.0631295228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "name": "A02_008-09-Station_007_536_2_SKE_100",
+        "description": "A02_008-09-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3403437309,
+          48.058994984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "name": "A02_008-10-Station_007_536_2_SKE_100",
+        "description": "A02_008-10-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3410212528999,
+          48.0549703966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "name": "A02_008-11-Station_007_536_2_SKE_100",
+        "description": "A02_008-11-Station_007_536_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3415229969999,
+          48.0518498255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "name": "A02_009-00-Station_012_662_1_SKE_150",
+        "description": "A02_009-00-Station_012_662_1_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3418284156999,
+          48.0489684274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "name": "A02_010-00-Station_012_700_2_SKE_150",
+        "description": "A02_010-00-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3419530311999,
+          48.0473694725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "name": "A02_010-01-Station_012_700_2_SKE_150",
+        "description": "A02_010-01-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3418722343,
+          48.0441628055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "name": "A02_010-02-Station_012_700_2_SKE_150",
+        "description": "A02_010-02-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3413036964,
+          48.0401654315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "name": "A02_010-03-Station_012_700_2_SKE_150",
+        "description": "A02_010-03-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3401498309,
+          48.0361836922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "name": "A02_010-04-Station_012_700_2_SKE_150",
+        "description": "A02_010-04-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3384556761,
+          48.0322694846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "name": "A02_010-05-Station_012_700_2_SKE_150",
+        "description": "A02_010-05-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3362549813999,
+          48.0284898066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "name": "A02_010-06-Station_012_700_2_SKE_150",
+        "description": "A02_010-06-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3335106485,
+          48.0248688469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "name": "A02_010-07-Station_012_700_2_SKE_150",
+        "description": "A02_010-07-Station_012_700_2_SKE_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3303306517,
+          48.0213980181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "name": "A02_011-00-Station_016_350_0_MAS",
+        "description": "A02_011-00-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3263015856,
+          48.0178913537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "name": "A02_011-01-Station_016_350_0_MAS",
+        "description": "A02_011-01-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3221953083,
+          48.0149202016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "name": "A02_011-02-Station_016_350_0_MAS",
+        "description": "A02_011-02-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3178991580999,
+          48.0121012402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "name": "A02_011-02-Station_016_350_0_MAS",
+        "description": "A02_011-02-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3178991581,
+          48.0121012402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "name": "A02_011-03-Station_016_350_0_MAS",
+        "description": "A02_011-03-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3135225410999,
+          48.0092784947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "name": "A02_011-03-Station_016_350_0_MAS",
+        "description": "A02_011-03-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3135225411,
+          48.0092784947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "name": "A02_011-04-Station_016_350_0_MAS",
+        "description": "A02_011-04-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3091683223,
+          48.0064622667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "name": "A02_011-05-Station_016_350_0_MAS",
+        "description": "A02_011-05-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3047978096999,
+          48.0036296143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "name": "A02_011-06-Station_016_350_0_MAS",
+        "description": "A02_011-06-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3004215641,
+          48.0008059614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "name": "A02_011-07-Station_016_350_0_MAS",
+        "description": "A02_011-07-Station_016_350_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2960465315,
+          47.9979894914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "name": "A02_012-00-Station_019_460_0_MAS",
+        "description": "A02_012-00-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2932328399999,
+          47.9961744394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "name": "A02_012-01-Station_019_460_0_MAS",
+        "description": "A02_012-01-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2888574464,
+          47.9933253091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "name": "A02_012-02-Station_019_460_0_MAS",
+        "description": "A02_012-02-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2844820376999,
+          47.9905240025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "name": "A02_012-02-Station_019_460_0_MAS",
+        "description": "A02_012-02-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2844820377,
+          47.9905240025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "name": "A02_012-03-Station_019_460_0_MAS",
+        "description": "A02_012-03-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2800701464,
+          47.9877401762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "name": "A02_012-04-Station_019_460_0_MAS",
+        "description": "A02_012-04-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2754121131,
+          47.9851292974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "name": "A02_012-05-Station_019_460_0_MAS",
+        "description": "A02_012-05-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2703874255,
+          47.982851832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "name": "A02_012-06-Station_019_460_0_MAS",
+        "description": "A02_012-06-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2651135007,
+          47.980893924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "name": "A02_012-07-Station_019_460_0_MAS",
+        "description": "A02_012-07-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2596767272,
+          47.9790495658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "name": "A02_012-08-Station_019_460_0_MAS",
+        "description": "A02_012-08-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2542767674,
+          47.9772192175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "name": "A02_012-09-Station_019_460_0_MAS",
+        "description": "A02_012-09-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2489495555,
+          47.9752740373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "name": "A02_012-10-Station_019_460_0_MAS",
+        "description": "A02_012-10-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2437890948,
+          47.9730868266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "name": "A02_012-11-Station_019_460_0_MAS",
+        "description": "A02_012-11-Station_019_460_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2389649808,
+          47.97065399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "name": "A02_013-00-Station_025_100_0_MAS",
+        "description": "A02_013-00-Station_025_100_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2349203805,
+          47.9682280731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "name": "A02_013-01-Station_025_100_0_MAS",
+        "description": "A02_013-01-Station_025_100_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2308002353,
+          47.9652658253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "name": "A02_013-02-Station_025_100_0_MAS",
+        "description": "A02_013-02-Station_025_100_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2270566242,
+          47.9620345171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "name": "A02_013-03-Station_025_100_0_MAS",
+        "description": "A02_013-03-Station_025_100_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2237743020999,
+          47.9586126758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "name": "A02_013-03-Station_025_100_0_MAS",
+        "description": "A02_013-03-Station_025_100_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2237743021,
+          47.9586126758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134,
+        "name": "A02_014-00-AS_Kottingbrunn",
+        "description": "A02_014-00-AS_Kottingbrunn",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2201583299,
+          47.9542546665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135,
+        "name": "A02_014-01-AS_Kottingbrunn",
+        "description": "A02_014-01-AS_Kottingbrunn",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.21786669,
+          47.9509012937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136,
+        "name": "A02_015-00-Station_027_743_0_MAS",
+        "description": "A02_015-00-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2161450512,
+          47.9480797555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137,
+        "name": "A02_015-01-Station_027_743_0_MAS",
+        "description": "A02_015-01-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2141275128,
+          47.944342234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138,
+        "name": "A02_015-02-Station_027_743_0_MAS",
+        "description": "A02_015-02-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2124268372,
+          47.9404487812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139,
+        "name": "A02_015-03-Station_027_743_0_MAS",
+        "description": "A02_015-03-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2110243306,
+          47.9364711707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 140,
+        "name": "A02_015-04-Station_027_743_0_MAS",
+        "description": "A02_015-04-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2099882355,
+          47.9325286228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 141,
+        "name": "A02_015-05-Station_027_743_0_MAS",
+        "description": "A02_015-05-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2092638239,
+          47.9284658203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142,
+        "name": "A02_015-06-Station_027_743_0_MAS",
+        "description": "A02_015-06-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2088197184,
+          47.9243866869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+        "name": "A02_015-07-Station_027_743_0_MAS",
+        "description": "A02_015-07-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2085131147999,
+          47.9203571196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144,
+        "name": "A02_015-07-Station_027_743_0_MAS",
+        "description": "A02_015-07-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2085131148,
+          47.9203571196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145,
+        "name": "A02_015-08-Station_027_743_0_MAS",
+        "description": "A02_015-08-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.208287468,
+          47.9163209574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146,
+        "name": "A02_015-09-Station_027_743_0_MAS",
+        "description": "A02_015-09-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2080601379,
+          47.9122771582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 147,
+        "name": "A02_015-10-Station_027_743_0_MAS",
+        "description": "A02_015-10-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2078310762999,
+          47.9082457173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148,
+        "name": "A02_015-10-Station_027_743_0_MAS",
+        "description": "A02_015-10-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2078310763,
+          47.9082457173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 149,
+        "name": "A02_015-11-Station_027_743_0_MAS",
+        "description": "A02_015-11-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2075979006,
+          47.9042119779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 150,
+        "name": "A02_015-12-Station_027_743_0_MAS",
+        "description": "A02_015-12-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2073751773,
+          47.9001803319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 151,
+        "name": "A02_015-13-Station_027_743_0_MAS",
+        "description": "A02_015-13-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2071620728,
+          47.8961705539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152,
+        "name": "A02_015-14-Station_027_743_0_MAS",
+        "description": "A02_015-14-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2068936301,
+          47.8921144184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 153,
+        "name": "A02_015-15-Station_027_743_0_MAS",
+        "description": "A02_015-15-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2063682457,
+          47.8881592616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 154,
+        "name": "A02_015-16-Station_027_743_0_MAS",
+        "description": "A02_015-16-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2053014454,
+          47.884250304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 155,
+        "name": "A02_015-17-Station_027_743_0_MAS",
+        "description": "A02_015-17-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.203496715,
+          47.8804113214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156,
+        "name": "A02_015-18-Station_027_743_0_MAS",
+        "description": "A02_015-18-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2009835385,
+          47.8767549725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 157,
+        "name": "A02_015-19-Station_027_743_0_MAS",
+        "description": "A02_015-19-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1979698264,
+          47.8732823136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158,
+        "name": "A02_015-20-Station_027_743_0_MAS",
+        "description": "A02_015-20-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1946829669,
+          47.8699341969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159,
+        "name": "A02_015-21-Station_027_743_0_MAS",
+        "description": "A02_015-21-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1913891131,
+          47.8665878328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160,
+        "name": "A02_015-22-Station_027_743_0_MAS",
+        "description": "A02_015-22-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1883516089,
+          47.8631348392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161,
+        "name": "A02_015-23-Station_027_743_0_MAS",
+        "description": "A02_015-23-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.185794359,
+          47.8595136457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162,
+        "name": "A02_015-24-Station_027_743_0_MAS",
+        "description": "A02_015-24-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1838910704,
+          47.8557346411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163,
+        "name": "A02_015-25-Station_027_743_0_MAS",
+        "description": "A02_015-25-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1825181368999,
+          47.8519744571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 164,
+        "name": "A02_015-25-Station_027_743_0_MAS",
+        "description": "A02_015-25-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1825181369,
+          47.8519744571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165,
+        "name": "A02_015-26-Station_027_743_0_MAS",
+        "description": "A02_015-26-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1816649035999,
+          47.8479738566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166,
+        "name": "A02_015-26-Station_027_743_0_MAS",
+        "description": "A02_015-26-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1816649036,
+          47.8479738566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167,
+        "name": "A02_015-27-Station_027_743_0_MAS",
+        "description": "A02_015-27-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1813345384999,
+          47.8439615295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168,
+        "name": "A02_015-27-Station_027_743_0_MAS",
+        "description": "A02_015-27-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1813345385,
+          47.8439615295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 169,
+        "name": "A02_015-28-Station_027_743_0_MAS",
+        "description": "A02_015-28-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1814705125,
+          47.8399425295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+        "name": "A02_015-29-Station_027_743_0_MAS",
+        "description": "A02_015-29-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1819791801999,
+          47.8359125797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171,
+        "name": "A02_015-29-Station_027_743_0_MAS",
+        "description": "A02_015-29-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1819791802,
+          47.8359125797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172,
+        "name": "A02_015-30-Station_027_743_0_MAS",
+        "description": "A02_015-30-Station_027_743_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.182995803,
+          47.8319859366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 173,
+        "name": "A02_016-00-041_600_0_MAS",
+        "description": "A02_016-00-041_600_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.184476459,
+          47.8282459603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 174,
+        "name": "A02_016-01-041_600_0_MAS",
+        "description": "A02_016-01-041_600_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1865721619,
+          47.8244497406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "name": "A02_016-02-041_600_0_MAS",
+        "description": "A02_016-02-041_600_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1890937733,
+          47.8207658004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 176,
+        "name": "A02_016-03-041_600_0_MAS",
+        "description": "A02_016-03-041_600_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1916919386,
+          47.8171756082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 177,
+        "name": "A02_016-04-041_600_0_MAS",
+        "description": "A02_016-04-041_600_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1943684653,
+          47.8135975803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "name": "A02_016-05-041_600_0_MAS",
+        "description": "A02_016-05-041_600_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.196455061,
+          47.8104809487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 179,
+        "name": "A02_017-00-Abfahrt_WR_Neustadt",
+        "description": "A02_017-00-Abfahrt_WR_Neustadt",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1987427105,
+          47.8064996963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 180,
+        "name": "A03_001-00-Abfahrt_Müllendorf",
+        "description": "A03_001-00-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4559251901497,
+          47.8321756568711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 181,
+        "name": "A03_001-01-Abfahrt_Müllendorf",
+        "description": "A03_001-01-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4654947006999,
+          47.8340716731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 182,
+        "name": "A03_001-03-Abfahrt_Müllendorf",
+        "description": "A03_001-03-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4701247269999,
+          47.8347527667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 183,
+        "name": "A03_001-04-Abfahrt_Müllendorf",
+        "description": "A03_001-04-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4650345648,
+          47.8371083933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184,
+        "name": "A03_001-05-Abfahrt_Müllendorf",
+        "description": "A03_001-05-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4632441561,
+          47.8409968269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185,
+        "name": "A03_001-06-Guntramsdorf",
+        "description": "A03_001-06-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3397754124,
+          48.0283521043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+        "name": "A03_001-07-Guntramsdorf",
+        "description": "A03_001-07-Guntramsdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3451632495,
+          48.0266397424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 187,
+        "name": "A03_002-00-Station_000_491_0_MAS",
+        "description": "A03_002-00-Station_000_491_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3501469057,
+          48.0244655816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 188,
+        "name": "A03_002-01-Station_000_491_0_MAS",
+        "description": "A03_002-01-Station_000_491_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3544377975,
+          48.0216633621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 189,
+        "name": "A03_002-02-Station_000_491_0_MAS",
+        "description": "A03_002-02-Station_000_491_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3585158224,
+          48.0188176494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 190,
+        "name": "A03_002-03-Station_000_491_0_MAS",
+        "description": "A03_002-03-Station_000_491_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3626147949,
+          48.0158394852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 191,
+        "name": "A03_002-04-Station_000_491_0_MAS",
+        "description": "A03_002-04-Station_000_491_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3668678468,
+          48.0130377586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 192,
+        "name": "A03_002-05-Station_000_491_0_MAS",
+        "description": "A03_002-05-Station_000_491_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3705734507,
+          48.0109494103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193,
+        "name": "A03_003-00-Station_003_000_0_MAS",
+        "description": "A03_003-00-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3743697565,
+          48.009084189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 194,
+        "name": "A03_003-01-Station_003_000_0_MAS",
+        "description": "A03_003-01-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379338238,
+          48.0068585178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 195,
+        "name": "A03_003-02-Station_003_000_0_MAS",
+        "description": "A03_003-02-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3825693795,
+          48.0035123814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 196,
+        "name": "A03_003-03-Station_003_000_0_MAS",
+        "description": "A03_003-03-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3829273907,
+          47.999528374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 197,
+        "name": "A03_003-04-Station_003_000_0_MAS",
+        "description": "A03_003-04-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3825960588,
+          47.9954988273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 198,
+        "name": "A03_003-05-Station_003_000_0_MAS",
+        "description": "A03_003-05-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3827950855,
+          47.9914889157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 199,
+        "name": "A03_003-06-Station_003_000_0_MAS",
+        "description": "A03_003-06-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3821281559,
+          47.9875855265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 200,
+        "name": "A03_003-07-Station_003_000_0_MAS",
+        "description": "A03_003-07-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3790360385,
+          47.9841260658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "name": "A03_003-08-Station_003_000_0_MAS",
+        "description": "A03_003-08-Station_003_000_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3759921834,
+          47.9815667581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "name": "A03_004-00-Station_006_900_0_MAS",
+        "description": "A03_004-00-Station_006_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3732620938,
+          47.9786485556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "name": "A03_004-01-Station_006_900_0_MAS",
+        "description": "A03_004-01-Station_006_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3706253374,
+          47.9750549172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "name": "A03_004-02-Station_006_900_0_MAS",
+        "description": "A03_004-02-Station_006_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3685556865,
+          47.9713404937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 205,
+        "name": "A03_004-03-Station_006_900_0_MAS",
+        "description": "A03_004-03-Station_006_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3671203021,
+          47.9674630913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 206,
+        "name": "A03_004-04-Station_006_900_0_MAS",
+        "description": "A03_004-04-Station_006_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3662789808,
+          47.9634386783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 207,
+        "name": "A03_005-00-Station_009_120_1_MAS",
+        "description": "A03_005-00-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3662133562,
+          47.9595424579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 208,
+        "name": "A03_005-01-Station_009_120_1_MAS",
+        "description": "A03_005-01-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3667092255,
+          47.9555718864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 209,
+        "name": "A03_005-02-Station_009_120_1_MAS",
+        "description": "A03_005-02-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3678966747,
+          47.9516297661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 210,
+        "name": "A03_005-03-Station_009_120_1_MAS",
+        "description": "A03_005-03-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3697572594,
+          47.9477918948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 211,
+        "name": "A03_005-04-Station_009_120_1_MAS",
+        "description": "A03_005-04-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3722429001,
+          47.9440852622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 212,
+        "name": "A03_005-05-Station_009_120_1_MAS",
+        "description": "A03_005-05-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3752935625,
+          47.9406322353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 213,
+        "name": "A03_005-06-Station_009_120_1_MAS",
+        "description": "A03_005-06-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3788929175,
+          47.9374126501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 214,
+        "name": "A03_005-07-Station_009_120_1_MAS",
+        "description": "A03_005-07-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3827566015,
+          47.9344230269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 215,
+        "name": "A03_005-08-Station_009_120_1_MAS",
+        "description": "A03_005-08-Station_009_120_1_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3869644797,
+          47.931511661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 216,
+        "name": "A03_006-00-Station_013_000_2_MAS",
+        "description": "A03_006-00-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3912239837,
+          47.9286507175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 217,
+        "name": "A03_006-01-Station_013_000_2_MAS",
+        "description": "A03_006-01-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3953325874,
+          47.9257028008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 218,
+        "name": "A03_006-02-Station_013_000_2_MAS",
+        "description": "A03_006-02-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3992047385,
+          47.9227259704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 219,
+        "name": "A03_006-03-Station_013_000_2_MAS",
+        "description": "A03_006-03-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4027653649,
+          47.9194737899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220,
+        "name": "A03_006-04-Station_013_000_2_MAS",
+        "description": "A03_006-04-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4058245466,
+          47.9161743035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 221,
+        "name": "A03_006-05-Station_013_000_2_MAS",
+        "description": "A03_006-05-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4084888909,
+          47.9125347324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 222,
+        "name": "A03_006-06-Station_013_000_2_MAS",
+        "description": "A03_006-06-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4106652962,
+          47.9088264453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223,
+        "name": "A03_006-07-Station_013_000_2_MAS",
+        "description": "A03_006-07-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4122490889,
+          47.9049618373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 224,
+        "name": "A03_006-08-Station_013_000_2_MAS",
+        "description": "A03_006-08-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4133964152,
+          47.9010828195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 225,
+        "name": "A03_006-09-Station_013_000_2_MAS",
+        "description": "A03_006-09-Station_013_000_2_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4141433265,
+          47.8971973891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 226,
+        "name": "A03_007-00-Station_025_900_0_MAS",
+        "description": "A03_007-00-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4144925218,
+          47.8945800333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227,
+        "name": "A03_007-01-Station_025_900_0_MAS",
+        "description": "A03_007-01-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4148131491,
+          47.8906098226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228,
+        "name": "A03_007-02-Station_025_900_0_MAS",
+        "description": "A03_007-02-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4150297956,
+          47.8865824399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 229,
+        "name": "A03_007-03-Station_025_900_0_MAS",
+        "description": "A03_007-03-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4153482276,
+          47.8825422639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 230,
+        "name": "A03_007-04-Station_025_900_0_MAS",
+        "description": "A03_007-04-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4158440727,
+          47.8785444543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 231,
+        "name": "A03_007-05-Station_025_900_0_MAS",
+        "description": "A03_007-05-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4165973246999,
+          47.8745963541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 232,
+        "name": "A03_007-05-Station_025_900_0_MAS",
+        "description": "A03_007-05-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4165973247,
+          47.8745963541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 233,
+        "name": "A03_007-06-Station_025_900_0_MAS",
+        "description": "A03_007-06-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4176853056,
+          47.8706158035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 234,
+        "name": "A03_007-07-Station_025_900_0_MAS",
+        "description": "A03_007-07-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4190544652,
+          47.8666634085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 235,
+        "name": "A03_007-08-Station_025_900_0_MAS",
+        "description": "A03_007-08-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4206848665,
+          47.8627912306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 236,
+        "name": "A03_007-09-Station_025_900_0_MAS",
+        "description": "A03_007-09-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4226473502,
+          47.8589776604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 237,
+        "name": "A03_007-10-Station_025_900_0_MAS",
+        "description": "A03_007-10-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4248320328,
+          47.8552628669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 238,
+        "name": "A03_007-11-Station_025_900_0_MAS",
+        "description": "A03_007-11-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4272510406,
+          47.8516530776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239,
+        "name": "A03_007-12-Station_025_900_0_MAS",
+        "description": "A03_007-12-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4302252037,
+          47.8481514777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 240,
+        "name": "A03_007-13-Station_025_900_0_MAS",
+        "description": "A03_007-13-Station_025_900_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4333030693,
+          47.8451362802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 241,
+        "name": "A03_008-00-Station_031_980_0_MAS",
+        "description": "A03_008-00-Station_031_980_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4357131412,
+          47.8430797289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 242,
+        "name": "A03_008-01-Station_031_980_0_MAS",
+        "description": "A03_008-01-Station_031_980_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.439746788,
+          47.8401420197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 243,
+        "name": "A03_008-02-Station_031_980_0_MAS",
+        "description": "A03_008-02-Station_031_980_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4441438972,
+          47.8374263246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 244,
+        "name": "A03_008-03-Station_031_980_0_MAS",
+        "description": "A03_008-03-Station_031_980_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4488180462999,
+          47.8350249593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 245,
+        "name": "A03_009-00-Abfahrt_Müllendorf",
+        "description": "A03_009-00-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4538472576,
+          47.832911945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 246,
+        "name": "A03-001-00-Abfahrt_Müllendorf",
+        "description": "A03-001-00-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4559251901497,
+          47.8321756568711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 247,
+        "name": "A03-001-01-Abfahrt_Müllendorf",
+        "description": "A03-001-01-Abfahrt_Müllendorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4654947006999,
+          47.8340716731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 248,
+        "name": "A21_037_125_1",
+        "description": "A21_037_125_1",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3102877140045,
+          48.1215209041187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 249,
+        "name": "A22_000_744_1",
+        "description": "A22_000_744_1",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4345598220825,
+          48.2152178754262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 250,
+        "name": "A22_006-01-KN_Donauufer",
+        "description": "A22_006-01-KN_Donauufer",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.441141963005,
+          48.2105933720554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 251,
+        "name": "A22_006-01-KN_Donauufer_2",
+        "description": "A22_006-01-KN_Donauufer_2",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4421504735946,
+          48.2098712534534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 252,
+        "name": "A22_006-01-KN_Donauufer_below",
+        "description": "A22_006-01-KN_Donauufer_below",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4421504735946,
+          48.2098712534534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 253,
+        "name": "A22_006-02-KN_Donauufer",
+        "description": "A22_006-02-KN_Donauufer",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4421424269676,
+          48.2098927026675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 254,
+        "name": "A22_006-02-KN_Donauufer_above",
+        "description": "A22_006-02-KN_Donauufer_above",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4435935020446,
+          48.2116121854379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 255,
+        "name": "A22_006-02-KN_Donauufer_above_1",
+        "description": "A22_006-02-KN_Donauufer_above_1",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4435935020446,
+          48.2116121854379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 256,
+        "name": "A22_051-00-Station_004_051_1",
+        "description": "A22_051-00-Station_004_051_1",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4051574468612,
+          48.2374623827249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 257,
+        "name": "A23_001-00-KN_Rautenweg",
+        "description": "A23_001-00-KN_Rautenweg",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4754501992,
+          48.2591783527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 258,
+        "name": "A23_001-01-KN_Rautenweg",
+        "description": "A23_001-01-KN_Rautenweg",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4740192843,
+          48.2552400769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 259,
+        "name": "A23_002-00-KN_Breitenleer_Straße",
+        "description": "A23_002-00-KN_Breitenleer_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4715106021999,
+          48.2516910464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 260,
+        "name": "A23_002-01-KN_Breitenleer_Straße",
+        "description": "A23_002-01-KN_Breitenleer_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4683821324999,
+          48.2482675203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 261,
+        "name": "A23_002-02-KN_Breitenleer_Straße",
+        "description": "A23_002-02-KN_Breitenleer_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4644995511,
+          48.2451209567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 262,
+        "name": "A23_003-00-KN_Hirschstettner_Straße",
+        "description": "A23_003-00-KN_Hirschstettner_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4601865186,
+          48.2406691123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263,
+        "name": "A23_003-01-KN_Hirschstettner_Straße",
+        "description": "A23_003-01-KN_Hirschstettner_Straße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4579695882999,
+          48.2369686813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264,
+        "name": "A23_004-00-Station_016_330_0_MAS_150",
+        "description": "A23_004-00-Station_016_330_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4565712736999,
+          48.2354067573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 265,
+        "name": "A23_004-01-Station_016_330_0_MAS_150",
+        "description": "A23_004-01-Station_016_330_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4526966202,
+          48.2297483458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266,
+        "name": "A23_004-02-Station_016_330_0_MAS_150",
+        "description": "A23_004-02-Station_016_330_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4473022184,
+          48.220918374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 267,
+        "name": "A23_005-00-Station_014_082_0_MAS",
+        "description": "A23_005-00-Station_014_082_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4470906917999,
+          48.2167991674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 268,
+        "name": "A23_005-00-Station_014_082_0_MAS",
+        "description": "A23_005-00-Station_014_082_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4470906918,
+          48.2167991674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 269,
+        "name": "A23_005-01-Station_014_082_0_MAS",
+        "description": "A23_005-01-Station_014_082_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4458996099999,
+          48.2132484754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 270,
+        "name": "A23_005-01-Station_014_082_0_MAS",
+        "description": "A23_005-01-Station_014_082_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44589961,
+          48.2132484754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 271,
+        "name": "A23_006-00-KN_Donauufer",
+        "description": "A23_006-00-KN_Donauufer",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4404411080925,
+          48.2094494859982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 272,
+        "name": "A23_006-01-KN_Donauufer",
+        "description": "A23_006-01-KN_Donauufer",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4470428229453,
+          48.2122556365282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 273,
+        "name": "A23_006-02-KN_Donauufer",
+        "description": "A23_006-02-KN_Donauufer",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4426600933075,
+          48.2129276758919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 274,
+        "name": "A23_006-02-KN_Donauufer",
+        "description": "A23_006-02-KN_Donauufer",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4426600933074,
+          48.2129276758919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 275,
+        "name": "A23_007-00-Station_012_900_0_MAS_150",
+        "description": "A23_007-00-Station_012_900_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4385332887,
+          48.2081532881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 276,
+        "name": "A23_007-01-Station_012_900_0_MAS_150",
+        "description": "A23_007-01-Station_012_900_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4342924484999,
+          48.2052554872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 277,
+        "name": "A23_007-02-Station_012_900_0_MAS_150",
+        "description": "A23_007-02-Station_012_900_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4300947778999,
+          48.2023515554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 278,
+        "name": "A23_007-03-Station_012_900_0_MAS_150",
+        "description": "A23_007-03-Station_012_900_0_MAS_150",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4258663425,
+          48.1994991528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279,
+        "name": "A23_008-00-Station_011_225_2_SKE_50",
+        "description": "A23_008-00-Station_011_225_2_SKE_50",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4228575491999,
+          48.1974371744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 280,
+        "name": "A23_009-00-Station_011_175_1_SKE_50",
+        "description": "A23_009-00-Station_011_175_1_SKE_50",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4223927442999,
+          48.1971203863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 281,
+        "name": "A23_009-01-Station_011_175_1_SKE_50",
+        "description": "A23_009-01-Station_011_175_1_SKE_50",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4199962093999,
+          48.1954679345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 282,
+        "name": "A23_010-00-KN_Prater",
+        "description": "A23_010-00-KN_Prater",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4164301979,
+          48.1929928439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 283,
+        "name": "A23_011-00-Station_010_056_0_MAS",
+        "description": "A23_011-00-Station_010_056_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4121149613,
+          48.1900820255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 284,
+        "name": "A23_012-00-AS_St_Marx",
+        "description": "A23_012-00-AS_St_Marx",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4079832114,
+          48.1872703068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 285,
+        "name": "A23_012-01-AS_St_Marx",
+        "description": "A23_012-01-AS_St_Marx",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4055820982,
+          48.185434599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 286,
+        "name": "A23_013-00-Station_009_076_2_MAS_50",
+        "description": "A23_013-00-Station_009_076_2_MAS_50",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4045931266,
+          48.183999023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 287,
+        "name": "A23_014-00-Station_009_068_1_MAS_50",
+        "description": "A23_014-00-Station_009_068_1_MAS_50",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4042149764,
+          48.183197266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 288,
+        "name": "A23_015-00-AS_Landstraße",
+        "description": "A23_015-00-AS_Landstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4018461450999,
+          48.1802268727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 289,
+        "name": "A23_015-02-AS_Landstraße",
+        "description": "A23_015-02-AS_Landstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3983028034806,
+          48.1716128283202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 290,
+        "name": "A23_016-00-Station_007_065_2_SKE_100",
+        "description": "A23_016-00-Station_007_065_2_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3924286922999,
+          48.1698480842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 291,
+        "name": "A23_017-00-Station_006_979_1_SKE_100",
+        "description": "A23_017-00-Station_006_979_1_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3908937052999,
+          48.16879631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 292,
+        "name": "A23_017-01-Station_006_979_1_SKE_100",
+        "description": "A23_017-01-Station_006_979_1_SKE_100",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3861646299999,
+          48.1647481455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 293,
+        "name": "A23_018-00-Verteilerkreis_Favoriten",
+        "description": "A23_018-00-Verteilerkreis_Favoriten",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3833547907,
+          48.1609741259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 294,
+        "name": "A23_018-01-Verteilerkreis_Favoriten",
+        "description": "A23_018-01-Verteilerkreis_Favoriten",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3778426767,
+          48.1591432281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 295,
+        "name": "A23_018-02-Verteilerkreis_Favoriten",
+        "description": "A23_018-02-Verteilerkreis_Favoriten",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3749617672,
+          48.1556864357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 296,
+        "name": "A23_018-03-Verteilerkreis_Favoriten",
+        "description": "A23_018-03-Verteilerkreis_Favoriten",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.374231869,
+          48.1517324221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 297,
+        "name": "A23_018-04-Verteilerkreis_Favoriten",
+        "description": "A23_018-04-Verteilerkreis_Favoriten",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3687434247,
+          48.1506979181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 298,
+        "name": "A23_019-00-Station_003_685_0_MAS",
+        "description": "A23_019-00-Station_003_685_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.363281097,
+          48.15170284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299,
+        "name": "A23_019-01-Station_003_685_0_MAS",
+        "description": "A23_019-01-Station_003_685_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3573725183999,
+          48.1524947218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 300,
+        "name": "A23_019-01-Station_003_685_0_MAS",
+        "description": "A23_019-01-Station_003_685_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3573725184,
+          48.1524947218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 301,
+        "name": "A23_019-02-Station_003_685_0_MAS",
+        "description": "A23_019-02-Station_003_685_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3514345798,
+          48.1525567023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 302,
+        "name": "A23_019-03-Station_003_685_0_MAS",
+        "description": "A23_019-03-Station_003_685_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3472968715,
+          48.1517859818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 303,
+        "name": "A23_020-00-KN_Inzersdorf",
+        "description": "A23_020-00-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3437687836999,
+          48.1499252803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 304,
+        "name": "A23_020-01-KN_Inzersdorf",
+        "description": "A23_020-01-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3388317003,
+          48.152663133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 305,
+        "name": "A23_020-02-KN_Inzersdorf",
+        "description": "A23_020-02-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3341240657,
+          48.1543785924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 306,
+        "name": "A23_020-03-KN_Inzersdorf",
+        "description": "A23_020-03-KN_Inzersdorf",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3287992983999,
+          48.1562818389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 307,
+        "name": "A23_021-00-Station_000_377_0_MAS",
+        "description": "A23_021-00-Station_000_377_0_MAS",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3237402798999,
+          48.1573747541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 308,
+        "name": "A23_022-00-Altmannsdorf_01",
+        "description": "A23_022-00-Altmannsdorf_01",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3181873096,
+          48.1591956499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 309,
+        "name": "A23_023-00-Altmannsdorf_02",
+        "description": "A23_023-00-Altmannsdorf_02",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3172919725,
+          48.1632348629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 310,
+        "name": "KLU_028-00-Birnengasse_Maria_Ebner_Eschenbach",
+        "description": "KLU_028-00-Birnengasse_Maria_Ebner_Eschenbach",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2942317739721,
+          46.6146325301978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 311,
+        "name": "KLU_028-00-Birnengasse_Maria_Ebner_EschenbachLisztgasse",
+        "description": "KLU_028-00-Birnengasse_Maria_Ebner_EschenbachLisztgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2942317739721,
+          46.6146325301978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 312,
+        "name": "KLU_029-00-Bahnstraße_Maria_Ebner_Eschenbachstraße",
+        "description": "KLU_029-00-Bahnstraße_Maria_Ebner_Eschenbachstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2946849701344,
+          46.6165260419608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 313,
+        "name": "KLU_030-00-Bahnstraße_Max_Reger_Gasse",
+        "description": "KLU_030-00-Bahnstraße_Max_Reger_Gasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2959916728524,
+          46.6158921444264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 314,
+        "name": "KLU_031-00-Bahnstraße_Lisztgasse",
+        "description": "KLU_031-00-Bahnstraße_Lisztgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2969815021065,
+          46.6155148966642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315,
+        "name": "KLU_032-00-Maximilianstraße_Lisztgasse",
+        "description": "KLU_032-00-Maximilianstraße_Lisztgasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2964849919524,
+          46.613550995782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 316,
+        "name": "KLU_033-00-Maximilianstraße_Waidmannsdorferstraße",
+        "description": "KLU_033-00-Maximilianstraße_Waidmannsdorferstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2926614161999,
+          46.6140299323523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 317,
+        "name": "KLU_034-00-Siebenhügelstraße",
+        "description": "KLU_034-00-Siebenhügelstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.289865271,
+          46.6136012944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 318,
+        "name": "KLU_035-00-Siebenhügelstraße",
+        "description": "KLU_035-00-Siebenhügelstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2841016037605,
+          46.6124508453334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 319,
+        "name": "KLU_036-00-Siebenhügelstraße",
+        "description": "KLU_036-00-Siebenhügelstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2812623277606,
+          46.6115268924585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 320,
+        "name": "KLU_037-00-Siebenhügelstraße",
+        "description": "KLU_037-00-Siebenhügelstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2777868623557,
+          46.6104292322211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 321,
+        "name": "KLU_038-00-Siebenhügelstraße",
+        "description": "KLU_038-00-Siebenhügelstraße",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2743451927999,
+          46.6092682468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 322,
+        "name": "KLU_039-00-Südring",
+        "description": "KLU_039-00-Südring",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26861061,
+          46.6078745446736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 323,
+        "name": "KLU_040-00-Südring",
+        "description": "KLU_040-00-Südring",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2630556089884,
+          46.6089671041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 324,
+        "name": "KLU_041-00-Südring",
+        "description": "KLU_041-00-Südring",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2604675646164,
+          46.6112428689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 325,
+        "name": "KLU_042-00-Südring",
+        "description": "KLU_042-00-Südring",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2613489585163,
+          46.6155753894618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 326,
+        "name": "KLU_043-00-Lake_Side_Park",
+        "description": "KLU_043-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2615960680884,
+          46.6172982750652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 327,
+        "name": "KLU_044-00-Lake_Side_Park",
+        "description": "KLU_044-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264405424172,
+          46.6175544064991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 328,
+        "name": "KLU_045-00-Lake_Side_Park",
+        "description": "KLU_045-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2673537158442,
+          46.6178130839534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 329,
+        "name": "KLU_046-00-Lake_Side_Park",
+        "description": "KLU_046-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2678351220081,
+          46.6162726485399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 330,
+        "name": "KLU_047-00-Lake_Side_Park",
+        "description": "KLU_047-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2662816428672,
+          46.6160880447672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 331,
+        "name": "KLU_048-00-Lake_Side_Park",
+        "description": "KLU_048-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2647657883,
+          46.6158409464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 332,
+        "name": "KLU_049-00-Lake_Side_Park",
+        "description": "KLU_049-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2628428028,
+          46.6157818272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 333,
+        "name": "KLU_050-00-Lake_Side_Park",
+        "description": "KLU_050-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2623672109,
+          46.6167746438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 334,
+        "name": "KLU_051-00-Lake_Side_Park",
+        "description": "KLU_051-00-Lake_Side_Park",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2675289251999,
+          46.6169534384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 335,
+        "name": "KLU-001-00-Lisztgass_-Birnengasse",
+        "description": "KLU-001-00-Lisztgass_-Birnengasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2965968213884,
+          46.6143815588914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 336,
+        "name": "KLU-027-00-Birnengasse_Max_Reger_Gasse",
+        "description": "KLU-027-00-Birnengasse_Max_Reger_Gasse",
+        "type": 0,
+        "bothdirections": 0,
+        "confidence": 0.5,
+        "triggerIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2954076836721,
+          46.6145543849828
+        ]
+      }
+    }
+  ]
+}
